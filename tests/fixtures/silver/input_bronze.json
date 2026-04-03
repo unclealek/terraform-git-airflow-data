@@ -1,0 +1,54 @@
+[
+  {
+    "event_id": "evt_dup",
+    "event_type": "purchase",
+    "event_timestamp": "03/25/2026 08:20:00",
+    "user_id": "user_123",
+    "session_id": "sess_001",
+    "product_id": "",
+    "page_url": "",
+    "quantity": "2",
+    "price": "49.99",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-03-25T08:20:05Z",
+    "event_properties": {
+      "payment_method": "card"
+    },
+    "bronze_loaded_at": "2026-03-25T08:20:06Z"
+  },
+  {
+    "event_id": "evt_dup",
+    "event_type": "purchase",
+    "event_timestamp": "2026-03-25T08:20:01Z",
+    "user_id": "user_123",
+    "session_id": "sess_001",
+    "product_id": "prod_77",
+    "page_url": null,
+    "quantity": 2,
+    "price": 49.99,
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-03-25T08:20:06Z",
+    "event_properties": {},
+    "bronze_loaded_at": "2026-03-25T08:20:07Z"
+  },
+  {
+    "event_id": null,
+    "event_type": "page_view",
+    "event_timestamp": "2026-03-25T08:12:01Z",
+    "user_id": "user_999",
+    "session_id": "sess_999",
+    "product_id": null,
+    "page_url": "/home",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-03-25T08:12:05Z",
+    "event_properties": {
+      "browser": "Chrome"
+    },
+    "bronze_loaded_at": "2026-03-25T08:12:06Z"
+  }
+]

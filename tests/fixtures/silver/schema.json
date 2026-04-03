@@ -1,0 +1,32 @@
+{
+  "columns": [
+    "event_id",
+    "event_type",
+    "event_timestamp",
+    "user_id",
+    "session_id",
+    "product_id",
+    "page_url",
+    "quantity",
+    "price",
+    "currency",
+    "source_file",
+    "ingested_at",
+    "event_properties"
+  ],
+  "types": {
+    "event_id": "string",
+    "event_type": "string",
+    "event_timestamp": "string",
+    "user_id": "string",
+    "session_id": "string",
+    "product_id": "string",
+    "page_url": "string",
+    "quantity": "string",
+    "price": "string",
+    "currency": "string",
+    "source_file": "string",
+    "ingested_at": "string",
+    "event_properties": "string"
+  }
+}

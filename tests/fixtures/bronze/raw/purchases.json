@@ -1,0 +1,19 @@
+[
+  {
+    "event_id": "evt_buy_001",
+    "event_type": "purchase",
+    "event_timestamp": "2026-03-25T09:00:00Z",
+    "user_id": "user_123",
+    "session_id": "sess_001",
+    "product_id": "prod_77",
+    "page_url": null,
+    "quantity": 2,
+    "price": 49.99,
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-03-25T09:00:02Z",
+    "event_properties": {
+      "payment_method": "card"
+    }
+  }
+]

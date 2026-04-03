@@ -1,0 +1,107 @@
+[
+    {
+        "event_id": "evt_001",
+        "event_type": "page_view",
+        "event_timestamp": "2026-03-25T08:12:01Z",
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": null,
+        "page_url": "/home",
+        "quantity": null,
+        "price": null,
+        "currency": null,
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": "2026-03-25T08:12:05Z",
+        "event_properties": {
+            "browser": "Chrome",
+            "device": "mobile"
+        }
+    },
+    {
+        "event_id": "evt_002",
+        "event_type": "product_click",
+        "event_timestamp": "2026-03-25 08:15:22",
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": "prod_77",
+        "page_url": null,
+        "quantity": null,
+        "price": null,
+        "currency": null,
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": null,
+        "event_properties": {
+            "referrer": "homepage",
+            "campaign": "spring_sale"
+        }
+    },
+    {
+        "event_id": "evt_003",
+        "event_type": "add_to_cart",
+        "event_timestamp": "2026-03-25T08:16:10Z",
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": "prod_77",
+        "page_url": "",
+        "quantity": "2",
+        "price": null,
+        "currency": null,
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": "2026-03-25T08:16:12Z",
+        "event_properties": {
+            "cart_value": "invalid_number"
+        }
+    },
+    {
+        "event_id": "evt_004",
+        "event_type": "purchase",
+        "event_timestamp": "03/25/2026 08:20:00",
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": "prod_77",
+        "page_url": null,
+        "quantity": 2,
+        "price": "49.99",
+        "currency": "EUR",
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": "2026-03-25T08:20:05Z",
+        "event_properties": {
+            "payment_method": "card",
+            "discount_applied": true
+        }
+    },
+    {
+        "event_id": "evt_004",
+        "event_type": "purchase",
+        "event_timestamp": "2026-03-25T08:20:01Z",
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": "prod_77",
+        "page_url": null,
+        "quantity": 2,
+        "price": 49.99,
+        "currency": "EUR",
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": "2026-03-25T08:20:06Z",
+        "event_properties": {}
+    },
+    {
+        "event_id": "evt_005",
+        "event_type": "user_session",
+        "event_timestamp": null,
+        "user_id": "user_123",
+        "session_id": "sess_001",
+        "product_id": null,
+        "page_url": null,
+        "quantity": null,
+        "price": null,
+        "currency": null,
+        "source_file": "events_2026_03_25.json",
+        "ingested_at": "2026-03-25T08:30:00Z",
+        "event_properties": {
+            "session_start": "2026-03-25T08:10:00Z",
+            "session_end": "2026-03-25T08:25:00Z",
+            "duration_seconds": "900"
+        }
+    }
+]

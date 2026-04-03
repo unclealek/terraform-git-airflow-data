@@ -1,0 +1,19 @@
+[
+  {
+    "event_id": "evt_cart_001",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-03-25T08:30:00Z",
+    "user_id": "user_123",
+    "session_id": "sess_001",
+    "product_id": "prod_77",
+    "page_url": null,
+    "quantity": 2,
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-03-25T08:30:02Z",
+    "event_properties": {
+      "cart_value": "12.50"
+    }
+  }
+]

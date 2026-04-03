@@ -1,0 +1,6 @@
+event_id,event_type,event_timestamp,user_id,session_id,product_id,page_url,quantity,price,currency,source_file,ingested_at,event_properties_json
+evt_cart_001,add_to_cart,2026-03-25T08:30:00Z,user_123,sess_001,prod_77,,2,,,add_to_cart.json,2026-03-25T08:30:02Z,"{""cart_value"":""12.50""}"
+evt_pv_001,page_view,2026-03-25T08:12:01Z,user_123,sess_001,,/home,,,,page_views.json,2026-03-25T08:12:05Z,"{""browser"":""Chrome""}"
+evt_pc_001,product_click,2026-03-25T08:20:00Z,user_123,sess_001,prod_77,,,,,product_clicks.json,2026-03-25T08:20:02Z,"{""referrer"":""homepage""}"
+evt_buy_001,purchase,2026-03-25T09:00:00Z,user_123,sess_001,prod_77,,2,49.99,EUR,purchases.json,2026-03-25T09:00:02Z,"{""payment_method"":""card""}"
+evt_sess_001,user_session,2026-03-25T08:10:00Z,user_123,sess_001,,,,,,user_sessions.json,2026-03-25T08:40:00Z,"{""duration_seconds"":""900""}"
