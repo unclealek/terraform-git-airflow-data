@@ -11,6 +11,8 @@ on:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: ${{ github.workspace }}
     
     # We need specific permissions to allow the GitHub Action to push code back to the repository
     permissions:
