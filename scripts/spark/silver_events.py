@@ -3,6 +3,8 @@ from pyspark.sql.functions import coalesce, col, current_timestamp, lit, to_json
 from pyspark.sql.functions import row_number
 from pyspark.sql.window import Window
 
+from scripts.pipeline_config import BRONZE_PATH, SILVER_PATH
+
 
 def transform_silver_events(df_bronze: DataFrame) -> DataFrame:
     df_bronze_filtered = df_bronze.filter(col("event_id").isNotNull())
@@ -52,7 +54,7 @@ def main() -> None:
     )
     spark.sparkContext.setLogLevel("WARN")
 
-    df_bronze = spark.read.parquet("data/bronze/bronze_events")
+    df_bronze = spark.read.parquet(str(BRONZE_PATH))
     bronze_count = df_bronze.count()
     print(f"[INFO] Bronze row count: {bronze_count}")
 
@@ -88,7 +90,7 @@ def main() -> None:
     (
         df_silver_dedup.write.mode("overwrite")
         .partitionBy("event_type")
-        .parquet("data/silver/silver_events")
+        .parquet(str(SILVER_PATH))
     )
 
     print("[INFO] Silver layer write complete.")

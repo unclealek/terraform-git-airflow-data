@@ -1,6 +1,8 @@
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql.functions import col, sum as _sum, count, to_date, round
 
+from scripts.pipeline_config import GOLD_PATH, GOLD_REPORT_PATH, SILVER_PATH
+
 
 def build_gold_metrics(spark: SparkSession, silver_events_path: str) -> DataFrame:
     df_silver = spark.read.parquet(silver_events_path)
@@ -31,17 +33,16 @@ def main():
     spark.sparkContext.setLogLevel("WARN")
 
 
-    silver_events_path = "data/silver/silver_events"
-    df_gold = build_gold_metrics(spark, silver_events_path)
+    df_gold = build_gold_metrics(spark, str(SILVER_PATH))
     df_gold.show(5, truncate=False)
 
-    df_gold.write.mode("overwrite").parquet("data/gold/gold_daily_revenue")
+    df_gold.write.mode("overwrite").parquet(str(GOLD_PATH))
     (
         df_gold.coalesce(1)
         .write
         .mode("overwrite")
         .option("header", True)
-        .csv("data/gold/reports/gold_daily_revenue")
+        .csv(str(GOLD_REPORT_PATH))
     )
 
     spark.stop()

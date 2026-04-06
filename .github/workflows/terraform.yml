@@ -1,4 +1,4 @@
-name: Terraform
+name: Terraform Scaffold
 
 on:
   push:
@@ -9,6 +9,13 @@ on:
     paths:
       - "terraform/**"
       - ".github/workflows/terraform.yml"
+  workflow_dispatch:
+    inputs:
+      apply_changes:
+        description: "Run terraform apply to refresh generated deployment artifacts"
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   terraform:
@@ -26,17 +33,24 @@ jobs:
         uses: hashicorp/setup-terraform@v3
 
       - name: Terraform Init
-        run: terraform init
+        run: terraform init -input=false
 
       - name: Terraform Format Check
         run: terraform fmt -check
 
       - name: Terraform Validate
-        run: terraform validate
+        run: terraform validate -no-color
 
       - name: Terraform Plan
-        run: terraform plan -input=false
+        run: terraform plan -input=false -no-color
 
       - name: Terraform Apply
-        if: github.event_name == 'push'
-        run: terraform apply -auto-approve -input=false
+        if: github.event_name == 'workflow_dispatch' && inputs.apply_changes
+        run: terraform apply -input=false -auto-approve
+
+      - name: Upload generated deployment artifacts
+        if: github.event_name == 'workflow_dispatch' && inputs.apply_changes
+        uses: actions/upload-artifact@v4
+        with:
+          name: terraform-generated-${{ github.run_id }}
+          path: terraform/generated

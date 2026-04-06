@@ -1,6 +1,8 @@
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql.functions import current_timestamp
 
+from scripts.pipeline_config import BRONZE_PATH, raw_file
+
 
 def build_bronze_events(
     spark: SparkSession,
@@ -35,16 +37,16 @@ def main() -> None:
 
     df_bronze_events = build_bronze_events(
         spark=spark,
-        add_to_cart_path="data/raw/add_to_cart/add_to_cart.json",
-        page_views_path="data/raw/page_views/page_views.json",
-        product_clicks_path="data/raw/product_clicks/product_clicks.json",
-        purchases_path="data/raw/purchases/purchases.json",
-        user_sessions_path="data/raw/user_sessions/user_sessions.json",
+        add_to_cart_path=raw_file("add_to_cart", "add_to_cart.json"),
+        page_views_path=raw_file("page_views", "page_views.json"),
+        product_clicks_path=raw_file("product_clicks", "product_clicks.json"),
+        purchases_path=raw_file("purchases", "purchases.json"),
+        user_sessions_path=raw_file("user_sessions", "user_sessions.json"),
     )
 
     df_bronze_events.printSchema()
     df_bronze_events.show(truncate=False)
-    df_bronze_events.write.mode("overwrite").parquet("data/bronze/bronze_events")
+    df_bronze_events.write.mode("overwrite").parquet(str(BRONZE_PATH))
 
     spark.stop()
 
