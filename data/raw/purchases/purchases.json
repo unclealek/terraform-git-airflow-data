@@ -1,272 +1,255 @@
 [
   {
-    "event_id": "purchase_016e06fc84",
+    "event_id": "purchase_fa46a0aea6",
     "event_type": "purchase",
-    "event_timestamp": "2026-05-26T19:55:42Z",
-    "user_id": "user_6f458810",
-    "session_id": "sess_d1b95590",
-    "product_id": "prod_951",
-    "page_url": null,
-    "quantity": "2",
-    "price": "79.31",
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-26T19:56:42Z",
-    "event_properties": {
-      "payment_method": "card"
-    }
-  },
-  {
-    "event_id": "purchase_bb8df1e99a",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-17T01:27:44Z",
-    "user_id": "user_6dc00aac",
-    "session_id": "sess_370ad1d0",
-    "product_id": "prod_721",
+    "event_timestamp": "2026-05-24T10:46:31Z",
+    "user_id": "user_50ad8595",
+    "session_id": "sess_eaede28d",
+    "product_id": "prod_433",
     "page_url": null,
     "quantity": "3",
-    "price": "189.81",
-    "currency": "USD",
+    "price": "171.38",
+    "currency": "GBP",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-17T01:28:44Z",
-    "event_properties": {
-      "payment_method": "card"
-    }
-  },
-  {
-    "event_id": "purchase_8a078c6f27",
-    "event_type": "purchase",
-    "event_timestamp": "2026-06-04T02:35:50Z",
-    "user_id": "user_2efc41d5",
-    "session_id": "sess_a4293fec",
-    "product_id": "prod_641",
-    "page_url": null,
-    "quantity": "1",
-    "price": "70.28",
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-06-04T02:36:50Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_29e2ab7f6d",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-16T07:54:53Z",
-    "user_id": "user_942c4b2b",
-    "session_id": "sess_a2876472",
-    "product_id": "prod_552",
-    "page_url": null,
-    "quantity": "3",
-    "price": "77.63",
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-16T07:55:53Z",
-    "event_properties": {
-      "payment_method": "card"
-    }
-  },
-  {
-    "event_id": "purchase_f05ad74f8c",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-28T11:59:43Z",
-    "user_id": "user_335a3a57",
-    "session_id": "sess_ab46d237",
-    "product_id": "prod_927",
-    "page_url": null,
-    "quantity": "4",
-    "price": "196.30",
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-28T12:00:43Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": null,
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-16T03:59:37Z",
-    "user_id": "user_7596a07e",
-    "session_id": "sess_ac96e104",
-    "product_id": "prod_629",
-    "page_url": null,
-    "quantity": "2",
-    "price": "64.12",
-    "currency": "EUR",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-16T04:00:37Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_53c623b05c",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-16T13:12:48Z",
-    "user_id": "user_bc4905f1",
-    "session_id": "sess_36ae5020",
-    "product_id": "prod_786",
-    "page_url": null,
-    "quantity": "2",
-    "price": "139.39",
-    "currency": "EUR",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-16T13:13:48Z",
-    "event_properties": {
-      "payment_method": "card"
-    }
-  },
-  {
-    "event_id": "purchase_6aa0025e0d",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-28T07:31:00Z",
-    "user_id": "user_1777ab66",
-    "session_id": "sess_4d97bb07",
-    "product_id": "prod_228",
-    "page_url": null,
-    "quantity": "2",
-    "price": "31.90",
-    "currency": "EUR",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-28T07:32:00Z",
+    "ingested_at": "2026-05-24T10:47:31Z",
     "event_properties": {
       "payment_method": "paypal"
     }
   },
   {
-    "event_id": "purchase_802cf6799a",
+    "event_id": "purchase_04464235fa",
     "event_type": "purchase",
-    "event_timestamp": "2026-06-06T08:22:37Z",
-    "user_id": "user_1f2e36c3",
-    "session_id": "sess_7b9f29af",
-    "product_id": "prod_375",
+    "event_timestamp": "2026-06-10T17:03:00Z",
+    "user_id": "user_2b72c7d6",
+    "session_id": "sess_2a24828d",
+    "product_id": "prod_583",
     "page_url": null,
-    "quantity": "2",
-    "price": "162.02",
-    "currency": "GBP",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-06-06T08:23:37Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_f0a3c12587",
-    "event_type": "purchase",
-    "event_timestamp": "2026-06-10T07:12:35Z",
-    "user_id": "user_ec3ac0fd",
-    "session_id": "sess_ce34013f",
-    "product_id": "prod_582",
-    "page_url": null,
-    "quantity": "4",
-    "price": "119.29",
-    "currency": "EUR",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-06-10T07:13:35Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_280477a9c2",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-18T10:38:07Z",
-    "user_id": "user_670be855",
-    "session_id": "sess_1bd94df5",
-    "product_id": "prod_400",
-    "page_url": null,
-    "quantity": "1",
-    "price": "92.24",
-    "currency": "GBP",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-18T10:39:07Z",
-    "event_properties": {
-      "payment_method": "card"
-    }
-  },
-  {
-    "event_id": "purchase_e446f8baf1",
-    "event_type": "purchase",
-    "event_timestamp": "2026-06-09T12:59:10Z",
-    "user_id": "user_f5c5102c",
-    "session_id": "sess_1efbe8a8",
-    "product_id": "prod_598",
-    "page_url": null,
-    "quantity": "1",
-    "price": "30.57",
-    "currency": "GBP",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-06-09T13:00:10Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_bf8d550f62",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-21T03:46:27Z",
-    "user_id": "user_8b556ba6",
-    "session_id": "sess_96abcf89",
-    "product_id": "prod_657",
-    "page_url": null,
-    "quantity": "2",
-    "price": "173.87",
-    "currency": "GBP",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-21T03:47:27Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_3ce12d07eb",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-15T21:59:59Z",
-    "user_id": "user_24514076",
-    "session_id": "sess_7a1f4a81",
-    "product_id": "prod_931",
-    "page_url": null,
-    "quantity": "4",
-    "price": "24.85",
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-15T22:00:59Z",
-    "event_properties": {
-      "payment_method": "apple_pay"
-    }
-  },
-  {
-    "event_id": "purchase_328f63b957",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-27T09:02:39Z",
-    "user_id": "user_df179918",
-    "session_id": "sess_758646a4",
-    "product_id": "prod_626",
-    "page_url": null,
-    "quantity": "2",
-    "price": "133.15",
+    "quantity": "3",
+    "price": "118.85",
     "currency": "EURO",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-27T09:03:39Z",
+    "ingested_at": "2026-06-10T17:04:00Z",
     "event_properties": {
       "payment_method": "apple_pay"
     }
   },
   {
-    "event_id": "purchase_d8b53dfac7",
+    "event_id": "purchase_c8abd7d3b6",
     "event_type": "purchase",
-    "event_timestamp": "2026-05-12T16:38:19Z",
-    "user_id": "user_ffa1f1e9",
-    "session_id": "sess_8bbece33",
-    "product_id": "prod_159",
+    "event_timestamp": "2026-06-09T14:49:56Z",
+    "user_id": "user_78eebf42",
+    "session_id": "sess_fe0ead9b",
+    "product_id": "prod_508",
     "page_url": null,
-    "quantity": "2",
-    "price": "166.56",
+    "quantity": "4",
+    "price": "193.47",
     "currency": "USD",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-12T16:39:19Z",
+    "ingested_at": "2026-06-09T14:50:56Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
+    }
+  },
+  {
+    "event_id": "purchase_e4fecc3734",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-18T19:10:26Z",
+    "user_id": "user_ddc35c61",
+    "session_id": "sess_206df650",
+    "product_id": "prod_88",
+    "page_url": null,
+    "quantity": "1",
+    "price": "113.63",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-18T19:11:26Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
+    }
+  },
+  {
+    "event_id": "purchase_373006f998",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-31T12:28:02Z",
+    "user_id": "user_a4c55781",
+    "session_id": "sess_66e5b53f",
+    "product_id": "prod_77",
+    "page_url": null,
+    "quantity": "1",
+    "price": "160.60",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-31T12:29:02Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
+    }
+  },
+  {
+    "event_id": "purchase_6f859109a6",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-22T18:38:27Z",
+    "user_id": "user_a852c0ff",
+    "session_id": "sess_c3855699",
+    "product_id": "prod_169",
+    "page_url": null,
+    "quantity": "1",
+    "price": "14.87",
+    "currency": "USD",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-22T18:39:27Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_9bf66ff35a",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-20T07:06:33Z",
+    "user_id": "user_7144e595",
+    "session_id": "sess_d8897b1f",
+    "product_id": "prod_358",
+    "page_url": null,
+    "quantity": "2",
+    "price": "46.36",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-20T07:07:33Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_c9d683d1ab",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-29T20:05:35Z",
+    "user_id": "user_837ac9a5",
+    "session_id": "sess_6018d198",
+    "product_id": "prod_476",
+    "page_url": null,
+    "quantity": "2",
+    "price": "83.83",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-29T20:06:35Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_2a7fde472a",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-17T13:25:15Z",
+    "user_id": "user_a9b8846c",
+    "session_id": "sess_46db5294",
+    "product_id": "prod_650",
+    "page_url": null,
+    "quantity": "3",
+    "price": "79.38",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-17T13:26:15Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_357d8419d8",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-23T06:47:18Z",
+    "user_id": "user_30c102f3",
+    "session_id": "sess_1ffb35ab",
+    "product_id": "prod_235",
+    "page_url": "",
+    "quantity": "3",
+    "price": "153.86",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-23T06:48:18Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_30fff219d2",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-14T22:43:23Z",
+    "user_id": "user_98d38771",
+    "session_id": "sess_f2b2293a",
+    "product_id": "prod_364",
+    "page_url": null,
+    "quantity": "4",
+    "price": "147.79",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-14T22:44:23Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_041aad467a",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-31T19:46:00Z",
+    "user_id": "user_fe27bb2c",
+    "session_id": "sess_dd081dbd",
+    "product_id": "prod_427",
+    "page_url": null,
+    "quantity": "1",
+    "price": "154.30",
+    "currency": "USD",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-31T19:47:00Z",
+    "event_properties": {
+      "payment_method": "card"
+    }
+  },
+  {
+    "event_id": "purchase_14d9c8ae7d",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-27T18:45:57Z",
+    "user_id": "user_eadfc144",
+    "session_id": "sess_a256fe7e",
+    "product_id": "prod_853",
+    "page_url": null,
+    "quantity": "1",
+    "price": "92.98",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-27T18:46:57Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
+    }
+  },
+  {
+    "event_id": "purchase_e462e6387d",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-27T11:37:36Z",
+    "user_id": "user_14e0e279",
+    "session_id": "sess_5d0c3de2",
+    "product_id": "prod_719",
+    "page_url": null,
+    "quantity": "4",
+    "price": "106.93",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-27T11:38:36Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_10057c7919",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-23T19:56:40Z",
+    "user_id": "user_6c9e4219",
+    "session_id": "sess_091b8e43",
+    "product_id": "prod_742",
+    "page_url": null,
+    "quantity": "4",
+    "price": "18.91",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-23T19:57:40Z",
     "event_properties": {
       "payment_method": "apple_pay"
     }
@@ -274,154 +257,188 @@
   {
     "event_id": null,
     "event_type": "purchase",
-    "event_timestamp": "2026-05-14T01:57:31Z",
-    "user_id": "user_c4e1e5c7",
-    "session_id": "sess_5f0c4436",
-    "product_id": "prod_32",
+    "event_timestamp": "2026-06-08T11:28:30Z",
+    "user_id": "user_939b511c",
+    "session_id": "sess_6690b204",
+    "product_id": "prod_733",
     "page_url": null,
-    "quantity": "2",
-    "price": "167.73",
+    "quantity": "1",
+    "price": "193.57",
     "currency": "EUR",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-14T01:58:31Z",
-    "event_properties": {
-      "payment_method": "paypal"
-    }
-  },
-  {
-    "event_id": "purchase_9e21561ff9",
-    "event_type": "purchase",
-    "event_timestamp": "2026-05-26T12:10:57Z",
-    "user_id": "user_78e4784e",
-    "session_id": "sess_091698fd",
-    "product_id": "prod_402",
-    "page_url": "",
-    "quantity": "1",
-    "price": "183.44",
-    "currency": "GBP",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-05-26T12:11:57Z",
+    "ingested_at": "2026-06-08T11:29:30Z",
     "event_properties": {
       "payment_method": "card"
     }
   },
   {
-    "event_id": "purchase_ffe26f266f",
+    "event_id": "purchase_76977d4f02",
     "event_type": "purchase",
-    "event_timestamp": "2026-06-07T12:36:32Z",
-    "user_id": "user_33cbcabd",
-    "session_id": "sess_1b696b63",
-    "product_id": "prod_859",
+    "event_timestamp": "03/99/2026 08:20:00",
+    "user_id": "user_47fe8e71",
+    "session_id": "sess_9ceb304b",
+    "product_id": "prod_789",
     "page_url": null,
-    "quantity": "3",
-    "price": "93.28",
-    "currency": "GBP",
+    "quantity": "2",
+    "price": "132.96",
+    "currency": "EUR",
     "source_file": "purchases.json",
-    "ingested_at": "2026-06-07T12:37:32Z",
+    "ingested_at": "2026-05-14T03:10:58Z",
     "event_properties": {
       "payment_method": "apple_pay"
     }
   },
   {
-    "event_id": "purchase_828adbab0c",
+    "event_id": "purchase_75985600dd",
     "event_type": "purchase",
-    "event_timestamp": "2026-06-06T02:39:44Z",
-    "user_id": "user_923601fa",
-    "session_id": "sess_382ab45f",
-    "product_id": "prod_593",
-    "page_url": null,
-    "quantity": "2",
-    "price": null,
-    "currency": "USD",
-    "source_file": "purchases.json",
-    "ingested_at": "2026-06-06T02:40:44Z",
-    "event_properties": {
-      "payment_method": "paypal"
-    }
-  },
-  {
-    "event_id": "purchase_9cbb262836",
-    "event_type": "purchase",
-    "event_timestamp": "2026-06-04T04:44:46Z",
-    "user_id": "user_7628f8e0",
-    "session_id": "sess_e8ce3fa2",
-    "product_id": "prod_813",
+    "event_timestamp": "2026-06-08T21:26:37Z",
+    "user_id": "user_aee9ae1b",
+    "session_id": "sess_55ad4977",
+    "product_id": "prod_605",
     "page_url": null,
     "quantity": "4",
-    "price": "116.79",
-    "currency": "USD",
+    "price": "176.84",
+    "currency": "GBP",
     "source_file": "purchases.json",
-    "ingested_at": "2026-06-04T04:45:46Z",
+    "ingested_at": "2026-06-08T21:27:37Z",
     "event_properties": {
       "payment_method": "card"
     }
   },
   {
-    "event_id": "purchase_1a5e31bf37",
+    "event_id": "purchase_cd7f8a6317",
     "event_type": "purchase",
-    "event_timestamp": "2026-05-28T00:38:27Z",
-    "user_id": "user_620f165c",
-    "session_id": "sess_5c2b7062",
-    "product_id": "prod_53",
+    "event_timestamp": "not_a_timestamp",
+    "user_id": "user_2a7414c6",
+    "session_id": "sess_51953c2b",
+    "product_id": "prod_543",
     "page_url": null,
     "quantity": "3",
-    "price": "180.14",
+    "price": "85.75",
+    "currency": "GBP",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-31T08:21:49Z",
+    "event_properties": {
+      "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_796a21f465",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-19T13:24:21Z",
+    "user_id": "user_9539a9b6",
+    "session_id": "sess_18773fe7",
+    "product_id": "prod_210",
+    "page_url": null,
+    "quantity": "4",
+    "price": "112.95",
     "currency": "USD",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-28T00:39:27Z",
+    "ingested_at": "2026-05-19T13:25:21Z",
     "event_properties": {
       "payment_method": "paypal"
     }
   },
   {
-    "event_id": "purchase_71155a6aba",
+    "event_id": "purchase_cb811af61b",
     "event_type": "purchase",
-    "event_timestamp": "2026-05-21T10:19:11Z",
-    "user_id": "user_f5c42739",
-    "session_id": "sess_5be23035",
-    "product_id": "prod_661",
+    "event_timestamp": "2026-05-15T20:37:03Z",
+    "user_id": "user_f407eeed",
+    "session_id": "sess_66b25292",
+    "product_id": "prod_220",
     "page_url": null,
-    "quantity": "2",
-    "price": "135.31",
-    "currency": "EUR",
+    "quantity": "4",
+    "price": "187.85",
+    "currency": "GBP",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-21T10:20:11Z",
+    "ingested_at": "2026-05-15T20:38:03Z",
     "event_properties": {
       "payment_method": "paypal"
     }
   },
   {
-    "event_id": "purchase_e976e0093c",
+    "event_id": "purchase_39e32f148f",
     "event_type": "purchase",
-    "event_timestamp": "2026-05-26T21:04:08Z",
-    "user_id": "user_191878b3",
-    "session_id": "sess_189e8fab",
-    "product_id": "prod_790",
+    "event_timestamp": "2026-05-23T01:10:40Z",
+    "user_id": "user_1541b302",
+    "session_id": "sess_21e688d4",
+    "product_id": "prod_845",
     "page_url": null,
-    "quantity": "1",
-    "price": "40.60",
+    "quantity": "3",
+    "price": "27.46",
     "currency": "EUR",
     "source_file": "purchases.json",
-    "ingested_at": "2026-05-26T21:05:08Z",
+    "ingested_at": "2026-05-23T01:11:40Z",
     "event_properties": {
       "payment_method": "apple_pay"
     }
   },
   {
-    "event_id": "purchase_996d7d3da1",
+    "event_id": "purchase_5a06b1a6f1",
     "event_type": "purchase",
-    "event_timestamp": "2026-06-08T08:49:02Z",
-    "user_id": "user_e8c51c09",
-    "session_id": "sess_631f3985",
-    "product_id": "prod_844",
+    "event_timestamp": "2026-06-07T21:51:12Z",
+    "user_id": "user_39dad1e8",
+    "session_id": "sess_231cf144",
+    "product_id": "prod_639",
     "page_url": null,
     "quantity": "3",
-    "price": "174.20",
+    "price": "108.45",
     "currency": "GBP",
     "source_file": "purchases.json",
-    "ingested_at": "2026-06-08T08:50:02Z",
+    "ingested_at": "2026-06-07T21:52:12Z",
     "event_properties": {
       "payment_method": "paypal"
+    }
+  },
+  {
+    "event_id": "purchase_9c592c1ae3",
+    "event_type": "purchase",
+    "event_timestamp": "2026-06-06T03:52:38Z",
+    "user_id": "user_54d41ca2",
+    "session_id": "sess_fb7255fa",
+    "product_id": "prod_948",
+    "page_url": null,
+    "quantity": "1",
+    "price": "48.95",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-06-06T03:53:38Z",
+    "event_properties": {
+      "payment_method": "card"
+    }
+  },
+  {
+    "event_id": "purchase_deef4fc3b0",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-30T08:21:05Z",
+    "user_id": "user_d8c77b7d",
+    "session_id": "sess_71138289",
+    "product_id": "prod_227",
+    "page_url": null,
+    "quantity": "4",
+    "price": "109.17",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-30T08:22:05Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
+    }
+  },
+  {
+    "event_id": "purchase_deef4fc3b0",
+    "event_type": "purchase",
+    "event_timestamp": "2026-05-30T08:21:05Z",
+    "user_id": "user_d8c77b7d",
+    "session_id": "sess_71138289",
+    "product_id": "prod_227",
+    "page_url": null,
+    "quantity": "4",
+    "price": "109.17",
+    "currency": "EUR",
+    "source_file": "purchases.json",
+    "ingested_at": "2026-05-30T08:22:05Z",
+    "event_properties": {
+      "payment_method": "apple_pay"
     }
   }
 ]
