@@ -1,496 +1,534 @@
 [
   {
-    "event_id": "user_session_b4f8a93475",
+    "event_id": "user_session_86dc01f8ea",
     "event_type": "user_session",
-    "event_timestamp": "invalid_timestamp",
-    "user_id": "user_76447264",
-    "session_id": "sess_109dff2b",
+    "event_timestamp": "2026-06-20T23:19:35Z",
+    "user_id": "user_12a89568",
+    "session_id": "sess_1544d608",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-04T05:29:28Z",
+    "ingested_at": "2026-06-20T23:20:35Z",
     "event_properties": {
-      "session_start": "2026-06-04T05:28:28Z",
-      "session_end": "2026-06-04T06:36:38Z",
-      "duration_seconds": "4090"
+      "session_start": "2026-06-20T23:19:35Z",
+      "session_end": "2026-06-21T00:41:10Z",
+      "duration_seconds": "4895"
     }
   },
   {
-    "event_id": "user_session_31b58880d8",
+    "event_id": "user_session_86dc01f8ea",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-11T20:57:16Z",
-    "user_id": "user_0c515d42",
-    "session_id": "sess_aad3c813",
+    "event_timestamp": "2026-06-20T23:19:35Z",
+    "user_id": "user_12a89568",
+    "session_id": "sess_1544d608",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-11T20:58:16Z",
+    "ingested_at": "2026-06-20T23:20:35Z",
     "event_properties": {
-      "session_start": "2026-06-11T20:57:16Z",
-      "session_end": "2026-06-11T22:07:34Z",
-      "duration_seconds": "4218"
+      "session_start": "2026-06-20T23:19:35Z",
+      "session_end": "2026-06-21T00:41:10Z",
+      "duration_seconds": "4895"
     }
   },
   {
-    "event_id": "user_session_7bfffd77de",
+    "event_id": "user_session_9b873a4f4b",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-20T12:43:08Z",
-    "user_id": "user_3b8505f2",
-    "session_id": "sess_e0031852",
+    "event_timestamp": "2026-06-07T20:43:31Z",
+    "user_id": "user_daae4748",
+    "session_id": "sess_b935fe74",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-20T12:44:08Z",
+    "ingested_at": "2026-06-07T20:44:31Z",
     "event_properties": {
-      "session_start": "2026-06-20T12:43:08Z",
-      "session_end": "2026-06-20T13:37:56Z",
-      "duration_seconds": "3288"
+      "session_start": "2026-06-07T20:43:31Z",
+      "session_end": "2026-06-07T21:28:02Z",
+      "duration_seconds": "2671"
     }
   },
   {
-    "event_id": "user_session_f37d3d4b27",
+    "event_id": "user_session_343a79dde0",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-24T21:19:52Z",
-    "user_id": "user_16f43f4e",
-    "session_id": "sess_93d4aa14",
+    "event_timestamp": "2026-06-20T11:19:11Z",
+    "user_id": "user_4591a924",
+    "session_id": "sess_4c0ae0f8",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-24T21:20:52Z",
+    "ingested_at": "2026-06-20T11:20:11Z",
     "event_properties": {
-      "session_start": "2026-06-24T21:19:52Z",
-      "session_end": "2026-06-24T22:30:55Z",
-      "duration_seconds": "4263"
-    }
-  },
-  {
-    "event_id": "user_session_4015f9f07b",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-26T07:12:27Z",
-    "user_id": "user_7bcfdbd2",
-    "session_id": "sess_f9cf82bb",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-26T07:13:27Z",
-    "event_properties": {
-      "session_start": "2026-06-26T07:12:27Z",
-      "session_end": "2026-06-26T08:28:39Z",
-      "duration_seconds": "4572"
-    }
-  },
-  {
-    "event_id": "user_session_1dd9bfac99",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-12T04:41:41Z",
-    "user_id": "user_bb3f348a",
-    "session_id": "sess_7b93aaa9",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-12T04:42:41Z",
-    "event_properties": {
-      "session_start": "2026-06-12T04:41:41Z",
-      "session_end": "2026-06-12T05:04:06Z",
-      "duration_seconds": "1345"
-    }
-  },
-  {
-    "event_id": "user_session_6c1ffb4d2f",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-27T18:50:16Z",
-    "user_id": "user_7ffbab0f",
-    "session_id": "sess_b5a1ddbf",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-27T18:51:16Z",
-    "event_properties": {
-      "session_start": "2026-06-27T18:50:16Z",
-      "session_end": "2026-06-27T19:13:22Z",
-      "duration_seconds": "1386"
-    }
-  },
-  {
-    "event_id": "user_session_de776a512a",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-17T06:14:22Z",
-    "user_id": "user_147b66ec",
-    "session_id": "sess_a5f06840",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-17T06:15:22Z",
-    "event_properties": {
-      "session_start": "2026-06-17T06:14:22Z",
-      "session_end": "2026-06-17T07:05:13Z",
-      "duration_seconds": "3051"
-    }
-  },
-  {
-    "event_id": "user_session_0f6542765f",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-03T00:27:01Z",
-    "user_id": "user_dd3050ad",
-    "session_id": "sess_cdaf6d58",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-03T00:28:01Z",
-    "event_properties": {
-      "session_start": "2026-06-03T00:27:01Z",
-      "session_end": "2026-06-03T01:56:22Z",
-      "duration_seconds": "5361"
-    }
-  },
-  {
-    "event_id": "user_session_274276c7e1",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-14T02:36:12Z",
-    "user_id": "user_315c8ecd",
-    "session_id": "sess_2360b821",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-14T02:37:12Z",
-    "event_properties": {
-      "session_start": "2026-06-14T02:36:12Z",
-      "session_end": "2026-06-14T03:13:27Z",
-      "duration_seconds": "2235"
-    }
-  },
-  {
-    "event_id": "user_session_274276c7e1",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-14T02:36:12Z",
-    "user_id": "user_315c8ecd",
-    "session_id": "sess_2360b821",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-14T02:37:12Z",
-    "event_properties": {
-      "session_start": "2026-06-14T02:36:12Z",
-      "session_end": "2026-06-14T03:13:27Z",
-      "duration_seconds": "2235"
-    }
-  },
-  {
-    "event_id": "user_session_a302dc9257",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-23T11:30:35Z",
-    "user_id": "user_7043f9f1",
-    "session_id": "sess_2a428dbe",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-23T11:31:35Z",
-    "event_properties": {
-      "session_start": "2026-06-23T11:30:35Z",
-      "session_end": "2026-06-23T12:11:29Z",
-      "duration_seconds": "2454"
-    }
-  },
-  {
-    "event_id": "user_session_1931b84b18",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-16T19:49:23Z",
-    "user_id": "user_46e057af",
-    "session_id": "sess_a617fb53",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-16T19:50:23Z",
-    "event_properties": {
-      "session_start": "2026-06-16T19:49:23Z",
-      "session_end": "2026-06-16T20:00:30Z",
-      "duration_seconds": "667"
-    }
-  },
-  {
-    "event_id": "user_session_8c6831e641",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-30T18:05:26Z",
-    "user_id": "user_989e910a",
-    "session_id": "sess_0cbe778a",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-30T18:06:26Z",
-    "event_properties": {
-      "session_start": "2026-06-30T18:05:26Z",
-      "session_end": "2026-06-30T18:08:11Z",
-      "duration_seconds": "165"
-    }
-  },
-  {
-    "event_id": "user_session_ae8abd88a6",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-27T02:32:20Z",
-    "user_id": "user_9e58d9bc",
-    "session_id": "sess_2a7c0820",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-27T02:33:20Z",
-    "event_properties": {
-      "session_start": "2026-06-27T02:32:20Z",
-      "session_end": "2026-06-27T03:05:02Z",
-      "duration_seconds": "1962"
-    }
-  },
-  {
-    "event_id": "user_session_eb82af74ce",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-30T22:28:26Z",
-    "user_id": "user_3763dde1",
-    "session_id": "sess_be15c33b",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-30T22:29:26Z",
-    "event_properties": {
-      "session_start": "2026-06-30T22:28:26Z",
+      "session_start": "2026-06-20T11:19:11Z",
       "session_end": null,
-      "duration_seconds": "3322"
+      "duration_seconds": "2796"
     }
   },
   {
-    "event_id": "user_session_c6223d5d98",
+    "event_id": "user_session_0af2d8ace6",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-29T18:21:45Z",
-    "user_id": "user_23dd67bf",
-    "session_id": "sess_d82717eb",
+    "event_timestamp": "2026-06-14T20:45:44Z",
+    "user_id": "user_791464d0",
+    "session_id": "sess_51f360f1",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-14T20:46:44Z",
+    "event_properties": {
+      "session_start": "2026-06-14T20:45:44Z",
+      "session_end": null,
+      "duration_seconds": "229"
+    }
+  },
+  {
+    "event_id": "user_session_0af2d8ace6",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-14T20:45:44Z",
+    "user_id": "user_791464d0",
+    "session_id": "sess_51f360f1",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-14T20:46:44Z",
+    "event_properties": {
+      "session_start": "2026-06-14T20:45:44Z",
+      "session_end": null,
+      "duration_seconds": "229"
+    }
+  },
+  {
+    "event_id": "user_session_59104416ff",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-05T10:30:11Z",
+    "user_id": "user_57778167",
+    "session_id": "sess_01aa66f6",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-05T10:31:11Z",
+    "event_properties": {
+      "session_start": "2026-06-05T10:30:11Z",
+      "session_end": "2026-06-05T10:47:50Z",
+      "duration_seconds": "1059"
+    }
+  },
+  {
+    "event_id": "user_session_560cfe3695",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-09T01:06:28Z",
+    "user_id": "user_0e96d54f",
+    "session_id": "sess_5da2a5ce",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-09T01:07:28Z",
+    "event_properties": {
+      "session_start": "2026-06-09T01:06:28Z",
+      "session_end": "2026-06-09T01:37:07Z",
+      "duration_seconds": "1839"
+    }
+  },
+  {
+    "event_id": "user_session_01336982a1",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-28T20:28:04Z",
+    "user_id": "user_b8a8fd26",
+    "session_id": "sess_df09be55",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-28T20:29:04Z",
+    "event_properties": {
+      "session_start": "2026-06-28T20:28:04Z",
+      "session_end": "2026-06-28T20:46:09Z",
+      "duration_seconds": "1085"
+    }
+  },
+  {
+    "event_id": "user_session_0104fb36af",
+    "event_type": "user_session",
+    "event_timestamp": "2026-07-03T04:15:43Z",
+    "user_id": "user_be065f9d",
+    "session_id": "sess_d95342f8",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-07-03T04:16:43Z",
+    "event_properties": {
+      "session_start": "2026-07-03T04:15:43Z",
+      "session_end": "2026-07-03T04:20:55Z",
+      "duration_seconds": "312"
+    }
+  },
+  {
+    "event_id": null,
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-29T22:36:01Z",
+    "user_id": "user_e79518e7",
+    "session_id": "sess_8abe2521",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-29T22:37:01Z",
+    "event_properties": {
+      "session_start": "2026-06-29T22:36:01Z",
+      "session_end": "2026-06-29T23:51:02Z",
+      "duration_seconds": "4501"
+    }
+  },
+  {
+    "event_id": "user_session_50ca0b5816",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-06T08:22:20Z",
+    "user_id": "user_007dc486",
+    "session_id": "sess_e37906d2",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-06T08:23:20Z",
+    "event_properties": {
+      "session_start": "2026-06-06T08:22:20Z",
+      "session_end": "2026-06-06T09:12:34Z",
+      "duration_seconds": "3014"
+    }
+  },
+  {
+    "event_id": "user_session_256fba0540",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-03T17:45:38Z",
+    "user_id": "user_cfc368dd",
+    "session_id": "sess_3d1dedd3",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-03T17:46:38Z",
+    "event_properties": {
+      "session_start": "2026-06-03T17:45:38Z",
+      "session_end": "2026-06-03T18:07:48Z",
+      "duration_seconds": "1330"
+    }
+  },
+  {
+    "event_id": "user_session_5fdb047722",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-25T16:15:04Z",
+    "user_id": "user_cecffc52",
+    "session_id": "sess_eb432faf",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-25T16:16:04Z",
+    "event_properties": {
+      "session_start": "2026-06-25T16:15:04Z",
+      "session_end": null,
+      "duration_seconds": "2091"
+    }
+  },
+  {
+    "event_id": "user_session_5b503ed3f9",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-11T14:27:08Z",
+    "user_id": "user_a94dfcab",
+    "session_id": "sess_e4dad594",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-11T14:28:08Z",
+    "event_properties": {
+      "session_start": "2026-06-11T14:27:08Z",
+      "session_end": "2026-06-11T15:29:00Z",
+      "duration_seconds": "3712"
+    }
+  },
+  {
+    "event_id": "user_session_a6541b3688",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-12T07:52:42Z",
+    "user_id": "user_2d0a9191",
+    "session_id": "sess_60353861",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-12T07:53:42Z",
+    "event_properties": {
+      "session_start": "2026-06-12T07:52:42Z",
+      "session_end": "2026-06-12T09:13:08Z",
+      "duration_seconds": "4826"
+    }
+  },
+  {
+    "event_id": "user_session_692f9eeef9",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-26T04:38:42Z",
+    "user_id": "user_d764c5a9",
+    "session_id": "sess_44e06a5a",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-26T04:39:42Z",
+    "event_properties": {
+      "session_start": "2026-06-26T04:38:42Z",
+      "session_end": "2026-06-26T05:06:38Z",
+      "duration_seconds": "1676"
+    }
+  },
+  {
+    "event_id": "user_session_fae1f1b38b",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-24T05:50:33Z",
+    "user_id": "user_d1fee999",
+    "session_id": "sess_225cfa4c",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-24T05:51:33Z",
+    "event_properties": {
+      "session_start": "2026-06-24T05:50:33Z",
+      "session_end": null,
+      "duration_seconds": "893"
+    }
+  },
+  {
+    "event_id": "user_session_994779bedb",
+    "event_type": "user_session",
+    "event_timestamp": "2026-07-03T06:17:49Z",
+    "user_id": "user_278e0004",
+    "session_id": "sess_6a2ddbf2",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-07-03T06:18:49Z",
+    "event_properties": {
+      "session_start": "2026-07-03T06:17:49Z",
+      "session_end": "2026-07-03T06:32:55Z",
+      "duration_seconds": "906"
+    }
+  },
+  {
+    "event_id": "user_session_84ae683a10",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-26T21:34:33Z",
+    "user_id": "user_a6eab48b",
+    "session_id": "sess_4f6417c7",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-26T21:35:33Z",
+    "event_properties": {
+      "session_start": "2026-06-26T21:34:33Z",
+      "session_end": "2026-06-26T23:04:21Z",
+      "duration_seconds": "5388"
+    }
+  },
+  {
+    "event_id": "user_session_84ae683a10",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-26T21:34:33Z",
+    "user_id": "user_a6eab48b",
+    "session_id": "sess_4f6417c7",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-26T21:35:33Z",
+    "event_properties": {
+      "session_start": "2026-06-26T21:34:33Z",
+      "session_end": "2026-06-26T23:04:21Z",
+      "duration_seconds": "5388"
+    }
+  },
+  {
+    "event_id": "user_session_9dc85e9ab4",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-23T23:52:42Z",
+    "user_id": "user_6af5446b",
+    "session_id": "sess_e61c0f71",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-23T23:53:42Z",
+    "event_properties": {
+      "session_start": "2026-06-23T23:52:42Z",
+      "session_end": null,
+      "duration_seconds": "2902"
+    }
+  },
+  {
+    "event_id": "user_session_04154b8aba",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-16T15:03:49Z",
+    "user_id": "user_8307bf55",
+    "session_id": "sess_1890203a",
+    "product_id": null,
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "user_sessions.json",
+    "ingested_at": "2026-06-16T15:04:49Z",
+    "event_properties": {
+      "session_start": "2026-06-16T15:03:49Z",
+      "session_end": null,
+      "duration_seconds": "1554"
+    }
+  },
+  {
+    "event_id": "user_session_7442be34c0",
+    "event_type": "user_session",
+    "event_timestamp": "2026-06-26T02:07:08Z",
+    "user_id": "user_5cc1887d",
+    "session_id": "sess_dfb107d9",
     "product_id": null,
     "page_url": "",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-29T18:22:45Z",
+    "ingested_at": "2026-06-26T02:08:08Z",
     "event_properties": {
-      "session_start": "2026-06-29T18:21:45Z",
-      "session_end": "2026-06-29T18:45:41Z",
-      "duration_seconds": "1436"
+      "session_start": "2026-06-26T02:07:08Z",
+      "session_end": "2026-06-26T02:50:25Z",
+      "duration_seconds": "2597"
     }
   },
   {
-    "event_id": "user_session_18ef3ac59c",
+    "event_id": "user_session_386b0198be",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-21T16:48:39Z",
-    "user_id": "user_d41de00b",
-    "session_id": "sess_92ef8b3d",
+    "event_timestamp": "2026-06-03T18:52:46Z",
+    "user_id": "user_93f4bc12",
+    "session_id": "sess_d88fdf4f",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-21T16:49:39Z",
+    "ingested_at": "2026-06-03T18:53:46Z",
     "event_properties": {
-      "session_start": "2026-06-21T16:48:39Z",
-      "session_end": "2026-06-21T18:08:19Z",
-      "duration_seconds": "4780"
+      "session_start": "2026-06-03T18:52:46Z",
+      "session_end": "2026-06-03T19:03:50Z",
+      "duration_seconds": "664"
     }
   },
   {
-    "event_id": "user_session_1af085b423",
+    "event_id": "user_session_b4b13ea726",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-18T03:57:07Z",
-    "user_id": "user_adbfe6cb",
-    "session_id": "sess_aaeb0619",
+    "event_timestamp": "2026-07-02T12:40:33Z",
+    "user_id": "user_5e01b538",
+    "session_id": "sess_6b00ad4d",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-18T03:58:07Z",
+    "ingested_at": "2026-07-02T12:41:33Z",
     "event_properties": {
-      "session_start": "2026-06-18T03:57:07Z",
-      "session_end": "2026-06-18T05:04:53Z",
-      "duration_seconds": "4066"
+      "session_start": "2026-07-02T12:40:33Z",
+      "session_end": "2026-07-02T13:25:55Z",
+      "duration_seconds": "2722"
     }
   },
   {
-    "event_id": "user_session_8b5bdf7681",
+    "event_id": "user_session_ade39d3661",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-06T00:32:01Z",
-    "user_id": "user_aee666ae",
-    "session_id": "sess_1f6a79db",
+    "event_timestamp": "2026-06-17T03:08:01Z",
+    "user_id": "user_9a2cc595",
+    "session_id": "sess_cc5286ee",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-06T00:33:01Z",
+    "ingested_at": "2026-06-17T03:09:01Z",
     "event_properties": {
-      "session_start": "2026-06-06T00:32:01Z",
-      "session_end": "2026-06-06T01:31:58Z",
-      "duration_seconds": "3597"
+      "session_start": "2026-06-17T03:08:01Z",
+      "session_end": null,
+      "duration_seconds": "3134"
     }
   },
   {
-    "event_id": "user_session_12899238db",
+    "event_id": "user_session_69a862fe82",
     "event_type": "user_session",
-    "event_timestamp": "2026-06-27T03:19:50Z",
-    "user_id": "user_95824926",
-    "session_id": "sess_500a6300",
+    "event_timestamp": "2026-06-15T01:31:05Z",
+    "user_id": "user_3662c016",
+    "session_id": "sess_1ec702ce",
     "product_id": null,
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-27T03:20:50Z",
+    "ingested_at": "2026-06-15T01:32:05Z",
     "event_properties": {
-      "session_start": "2026-06-27T03:19:50Z",
-      "session_end": "2026-06-27T04:43:03Z",
-      "duration_seconds": "4993"
-    }
-  },
-  {
-    "event_id": "user_session_6002fa2f45",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-12T18:15:44Z",
-    "user_id": "user_4c74eec3",
-    "session_id": "sess_14841927",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-12T18:16:44Z",
-    "event_properties": {
-      "session_start": "2026-06-12T18:15:44Z",
-      "session_end": "2026-06-12T19:36:29Z",
-      "duration_seconds": "4845"
-    }
-  },
-  {
-    "event_id": "user_session_72352366ef",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-03T18:53:24Z",
-    "user_id": "user_4ac810c9",
-    "session_id": "sess_3b1a4dff",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-03T18:54:24Z",
-    "event_properties": {
-      "session_start": "2026-06-03T18:53:24Z",
-      "session_end": "2026-06-03T19:04:59Z",
-      "duration_seconds": "695"
-    }
-  },
-  {
-    "event_id": "user_session_babc69519a",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-04T05:05:51Z",
-    "user_id": "user_a74111de",
-    "session_id": "sess_ebbc3afe",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-04T05:06:51Z",
-    "event_properties": {
-      "session_start": "2026-06-04T05:05:51Z",
-      "session_end": "2026-06-04T05:42:23Z",
-      "duration_seconds": "2192"
-    }
-  },
-  {
-    "event_id": "user_session_e85ada5be3",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-15T12:30:58Z",
-    "user_id": "user_f00260a2",
-    "session_id": "sess_b8072387",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-15T12:31:58Z",
-    "event_properties": {
-      "session_start": "2026-06-15T12:30:58Z",
-      "session_end": "2026-06-15T13:24:50Z",
-      "duration_seconds": "3232"
-    }
-  },
-  {
-    "event_id": "user_session_9b18b0cf4b",
-    "event_type": "user_session",
-    "event_timestamp": "2026-06-30T22:30:43Z",
-    "user_id": "user_b4098627",
-    "session_id": "sess_68b941df",
-    "product_id": null,
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "user_sessions.json",
-    "ingested_at": "2026-06-30T22:31:43Z",
-    "event_properties": {
-      "session_start": "2026-06-30T22:30:43Z",
-      "session_end": "2026-06-30T22:49:40Z",
-      "duration_seconds": "1137"
+      "session_start": "2026-06-15T01:31:05Z",
+      "session_end": "2026-06-15T02:02:46Z",
+      "duration_seconds": "1901"
     }
   }
 ]
