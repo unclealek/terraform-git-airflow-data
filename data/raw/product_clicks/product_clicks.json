@@ -1,461 +1,444 @@
 [
   {
-    "event_id": "product_click_3c420aab14",
+    "event_id": "product_click_d054f8ec76",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-18T10:08:30Z",
-    "user_id": "user_7a5a4d11",
-    "session_id": "sess_6e67a2ea",
-    "product_id": "prod_561",
+    "event_timestamp": "2026-07-25T20:39:50Z",
+    "user_id": "user_7b34370a",
+    "session_id": "sess_bb28b4ed",
+    "product_id": "prod_227",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-18T10:09:30Z",
+    "ingested_at": "2026-07-25T20:40:50Z",
+    "event_properties": {
+      "referrer": "homepage"
+    }
+  },
+  {
+    "event_id": "product_click_5313afff1e",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-18T11:46:12Z",
+    "user_id": "user_87ef1454",
+    "session_id": "sess_3628c0f0",
+    "product_id": "prod_148",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-18T11:47:12Z",
+    "event_properties": {
+      "referrer": "email_campaign"
+    }
+  },
+  {
+    "event_id": "product_click_a869f50c2b",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-16T03:12:41Z",
+    "user_id": "user_c5e1bd10",
+    "session_id": "sess_4ddd351b",
+    "product_id": "prod_641",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-16T03:13:41Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_f2b6fb3c39",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-09T10:59:54Z",
+    "user_id": "user_06e79c6b",
+    "session_id": "sess_73ab1b09",
+    "product_id": "prod_667",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-09T11:00:54Z",
+    "event_properties": {
+      "referrer": "homepage"
+    }
+  },
+  {
+    "event_id": "product_click_a317709dc9",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-29T04:24:21Z",
+    "user_id": "user_721e3fba",
+    "session_id": "sess_9b31b751",
+    "product_id": "prod_389",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-29T04:25:21Z",
+    "event_properties": {
+      "referrer": "homepage"
+    }
+  },
+  {
+    "event_id": "product_click_cd065e9897",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-31T23:36:05Z",
+    "user_id": "user_5b2cd5a7",
+    "session_id": "sess_475b8824",
+    "product_id": "prod_644",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-31T23:37:05Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_f2858ec7b4",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-12T19:41:14Z",
+    "user_id": "user_073b7f45",
+    "session_id": "sess_ff39140e",
+    "product_id": "prod_830",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-12T19:42:14Z",
     "event_properties": {
       "referrer": "search"
+    }
+  },
+  {
+    "event_id": "product_click_86cf4d358f",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-15T04:38:57Z",
+    "user_id": "user_d234e8f2",
+    "session_id": "sess_998f8049",
+    "product_id": "prod_289",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-15T04:39:57Z",
+    "event_properties": {
+      "referrer": "email_campaign"
+    }
+  },
+  {
+    "event_id": "product_click_89049d28ee",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-25T21:48:30Z",
+    "user_id": "user_028ac7d5",
+    "session_id": "sess_acc70100",
+    "product_id": "prod_42",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-25T21:49:30Z",
+    "event_properties": {
+      "referrer": "homepage"
     }
   },
   {
     "event_id": null,
     "event_type": "product_click",
-    "event_timestamp": "2026-08-02T17:11:47Z",
-    "user_id": "user_fa6cf4d2",
-    "session_id": "sess_4897f41d",
-    "product_id": "prod_77",
+    "event_timestamp": "2026-07-12T15:32:38Z",
+    "user_id": "user_020ff227",
+    "session_id": "sess_58f19602",
+    "product_id": "prod_515",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-08-02T17:12:47Z",
-    "event_properties": {
-      "referrer": "category_page"
-    }
-  },
-  {
-    "event_id": "product_click_6f81e53ace",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-20T19:58:27Z",
-    "user_id": "user_b522531e",
-    "session_id": "sess_4cedc796",
-    "product_id": "prod_376",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-20T19:59:27Z",
-    "event_properties": {
-      "referrer": "category_page"
-    }
-  },
-  {
-    "event_id": "product_click_ceb0a8bf36",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-27T04:51:20Z",
-    "user_id": "user_20060602",
-    "session_id": "sess_22f8ae93",
-    "product_id": "prod_143",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-27T04:52:20Z",
-    "event_properties": {
-      "referrer": "category_page"
-    }
-  },
-  {
-    "event_id": "product_click_b8d8614834",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-24T04:42:16Z",
-    "user_id": "user_fa44c632",
-    "session_id": "sess_d4af522c",
-    "product_id": "prod_202",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-24T04:43:16Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_b8d8614834",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-24T04:42:16Z",
-    "user_id": "user_fa44c632",
-    "session_id": "sess_d4af522c",
-    "product_id": "prod_202",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-24T04:43:16Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_6e3b167b9d",
-    "event_type": "product_click",
-    "event_timestamp": "2026-08-05T07:27:07Z",
-    "user_id": "user_9416fd0b",
-    "session_id": "sess_a31546e7",
-    "product_id": "prod_615",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-08-05T07:28:07Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_4108f5efb7",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-16T18:09:13Z",
-    "user_id": "user_51e1af76",
-    "session_id": "sess_2cf0d048",
-    "product_id": "prod_781",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-16T18:10:13Z",
-    "event_properties": {
-      "referrer": "search"
-    }
-  },
-  {
-    "event_id": "product_click_48e29d90a8",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-12T17:54:41Z",
-    "user_id": "user_2dfbe346",
-    "session_id": "sess_200dd21f",
-    "product_id": "prod_151",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-12T17:55:41Z",
-    "event_properties": {
-      "referrer": "category_page"
-    }
-  },
-  {
-    "event_id": "product_click_5ac1328375",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-30T18:48:55Z",
-    "user_id": "user_5932d9b7",
-    "session_id": "sess_f6a0f7d7",
-    "product_id": "prod_431",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-30T18:49:55Z",
-    "event_properties": {
-      "referrer": "search"
-    }
-  },
-  {
-    "event_id": "product_click_9342dd0b71",
-    "event_type": "product_click",
-    "event_timestamp": "2026-08-02T11:18:43Z",
-    "user_id": "user_207ee721",
-    "session_id": "sess_b3542416",
-    "product_id": "prod_170",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-08-02T11:19:43Z",
+    "ingested_at": "2026-07-12T15:33:38Z",
     "event_properties": {
       "referrer": "homepage"
     }
   },
   {
-    "event_id": "product_click_bf776b3a56",
+    "event_id": "product_click_e20f8a224a",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-08T08:16:33Z",
-    "user_id": "user_35b3eda0",
-    "session_id": "sess_9d3f2e99",
-    "product_id": "prod_810",
+    "event_timestamp": "2026-07-20T23:24:01Z",
+    "user_id": "user_186b67da",
+    "session_id": "sess_050104f9",
+    "product_id": "prod_165",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-08T08:17:33Z",
+    "ingested_at": "2026-07-20T23:25:01Z",
     "event_properties": {
       "referrer": "search"
     }
   },
   {
-    "event_id": "product_click_de094e96be",
+    "event_id": "product_click_de013e9ef5",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-07T11:33:56Z",
-    "user_id": "user_aecb873f",
-    "session_id": "sess_2ad22b15",
-    "product_id": "prod_285",
+    "event_timestamp": "2026-07-29T18:40:49Z",
+    "user_id": "user_87a6011c",
+    "session_id": "sess_046267d8",
+    "product_id": "prod_586",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-07T11:34:56Z",
-    "event_properties": {
-      "referrer": "homepage"
-    }
-  },
-  {
-    "event_id": "product_click_e20564aa65",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-21T20:26:58Z",
-    "user_id": "user_2542204c",
-    "session_id": "sess_8882c5cc",
-    "product_id": "prod_506",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-21T20:27:58Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_69f10ec1c3",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-11T06:10:42Z",
-    "user_id": "user_92e87580",
-    "session_id": "sess_4f5d4be0",
-    "product_id": "prod_193",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-11T06:11:42Z",
-    "event_properties": {
-      "referrer": "homepage"
-    }
-  },
-  {
-    "event_id": "product_click_b854e8a6f4",
-    "event_type": "product_click",
-    "event_timestamp": "not_a_timestamp",
-    "user_id": "user_eb479afa",
-    "session_id": "sess_e5363dd5",
-    "product_id": "prod_198",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-12T05:12:59Z",
-    "event_properties": {
-      "referrer": "homepage"
-    }
-  },
-  {
-    "event_id": "product_click_8968adcac6",
-    "event_type": "product_click",
-    "event_timestamp": "2026-08-02T06:34:21Z",
-    "user_id": "user_618cc7b6",
-    "session_id": "sess_6d612c01",
-    "product_id": "prod_217",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-08-02T06:35:21Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_6bbfaf63c2",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-13T14:16:03Z",
-    "user_id": "user_2f9844e2",
-    "session_id": "sess_c49cf6ee",
-    "product_id": "prod_750",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-13T14:17:03Z",
+    "ingested_at": "2026-07-29T18:41:49Z",
     "event_properties": {
       "referrer": "search"
     }
   },
   {
-    "event_id": "product_click_50e1f75fb8",
+    "event_id": "product_click_e0d80f0a14",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-31T03:58:59Z",
-    "user_id": "user_ddd3a3b6",
-    "session_id": "sess_68fffada",
-    "product_id": "prod_939",
+    "event_timestamp": "2026-07-11T08:57:37Z",
+    "user_id": "user_0e9d5125",
+    "session_id": "sess_56281fb7",
+    "product_id": "prod_604",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-31T03:59:59Z",
-    "event_properties": {
-      "referrer": "search"
-    }
-  },
-  {
-    "event_id": "product_click_e7b7f47f5d",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-25T15:59:53Z",
-    "user_id": "user_673aa853",
-    "session_id": "sess_5b26e8dc",
-    "product_id": "prod_20",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-25T16:00:53Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_b2dd6b2188",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-16T17:39:41Z",
-    "user_id": "user_47776550",
-    "session_id": "sess_20d65659",
-    "product_id": "prod_163",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-16T17:40:41Z",
-    "event_properties": {
-      "referrer": "search"
-    }
-  },
-  {
-    "event_id": "product_click_99dbaac007",
-    "event_type": "product_click",
-    "event_timestamp": "2026-08-02T05:49:14Z",
-    "user_id": "user_7597b2b5",
-    "session_id": "sess_08ed61e0",
-    "product_id": "prod_43",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-08-02T05:50:14Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_0d5aaa7d6f",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-27T05:02:12Z",
-    "user_id": "user_578e3a83",
-    "session_id": "sess_8396df5f",
-    "product_id": "prod_714",
-    "page_url": "",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-27T05:03:12Z",
-    "event_properties": {
-      "referrer": "email_campaign"
-    }
-  },
-  {
-    "event_id": "product_click_3447ad19c8",
-    "event_type": "product_click",
-    "event_timestamp": "2026-07-10T03:37:48Z",
-    "user_id": "user_e16f7fcc",
-    "session_id": "sess_ab64463d",
-    "product_id": "prod_61",
-    "page_url": null,
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-10T03:38:48Z",
+    "ingested_at": "2026-07-11T08:58:37Z",
     "event_properties": {
       "referrer": "category_page"
     }
   },
   {
-    "event_id": "product_click_3447ad19c8",
+    "event_id": null,
     "event_type": "product_click",
-    "event_timestamp": "2026-07-10T03:37:48Z",
-    "user_id": "user_e16f7fcc",
-    "session_id": "sess_ab64463d",
-    "product_id": "prod_61",
+    "event_timestamp": "2026-07-09T17:59:57Z",
+    "user_id": "user_a1b86e6d",
+    "session_id": "sess_afb76899",
+    "product_id": "prod_299",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-10T03:38:48Z",
+    "ingested_at": "2026-07-09T18:00:57Z",
     "event_properties": {
       "referrer": "category_page"
     }
   },
   {
-    "event_id": "product_click_94f826523d",
+    "event_id": "product_click_898d60225b",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-21T12:40:02Z",
-    "user_id": "user_b72dbe68",
-    "session_id": "sess_e3e1d625",
-    "product_id": "prod_994",
+    "event_timestamp": "2026-07-12T16:32:40Z",
+    "user_id": "user_a8997ace",
+    "session_id": "sess_f98f4535",
+    "product_id": "prod_526",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-21T12:41:02Z",
+    "ingested_at": "2026-07-12T16:33:40Z",
     "event_properties": {
-      "referrer": "email_campaign"
+      "referrer": "homepage"
     }
   },
   {
-    "event_id": "product_click_a563ccc730",
+    "event_id": "product_click_fc08ad941a",
     "event_type": "product_click",
-    "event_timestamp": "2026-07-17T07:22:34Z",
-    "user_id": "user_2f276ada",
-    "session_id": "sess_64d2368f",
-    "product_id": "prod_72",
+    "event_timestamp": "2026-07-25T00:57:40Z",
+    "user_id": "user_22746f68",
+    "session_id": "sess_dafc7742",
+    "product_id": "prod_668",
     "page_url": null,
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "product_clicks.json",
-    "ingested_at": "2026-07-17T07:23:34Z",
+    "ingested_at": "2026-07-25T00:58:40Z",
     "event_properties": {
-      "referrer": "email_campaign"
+      "referrer": "search"
+    }
+  },
+  {
+    "event_id": "product_click_87c9ec1dca",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-27T20:41:36Z",
+    "user_id": "user_f9cf2876",
+    "session_id": "sess_d51b78c2",
+    "product_id": "prod_311",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-27T20:42:36Z",
+    "event_properties": {
+      "referrer": "homepage"
+    }
+  },
+  {
+    "event_id": "product_click_341f52ef77",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-16T12:46:13Z",
+    "user_id": "user_632553a8",
+    "session_id": "sess_e22f8dbc",
+    "product_id": "prod_434",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-16T12:47:13Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_37d01cbb1a",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-19T12:32:05Z",
+    "user_id": "user_55272ff3",
+    "session_id": "sess_1f17bfd6",
+    "product_id": "prod_190",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-19T12:33:05Z",
+    "event_properties": {
+      "referrer": "search"
+    }
+  },
+  {
+    "event_id": "product_click_37d01cbb1a",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-19T12:32:05Z",
+    "user_id": "user_55272ff3",
+    "session_id": "sess_1f17bfd6",
+    "product_id": "prod_190",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-19T12:33:05Z",
+    "event_properties": {
+      "referrer": "search"
+    }
+  },
+  {
+    "event_id": "product_click_7e5bbad027",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-19T23:20:11Z",
+    "user_id": "user_af0e165e",
+    "session_id": "sess_5af73c43",
+    "product_id": "prod_868",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-19T23:21:11Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_3b87b6018a",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-27T11:36:02Z",
+    "user_id": "user_071f5bf6",
+    "session_id": "sess_65fe3828",
+    "product_id": "prod_67",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-27T11:37:02Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_77210c20bb",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-25T21:55:36Z",
+    "user_id": "user_7d7190d7",
+    "session_id": "sess_2fb77e72",
+    "product_id": "prod_222",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-25T21:56:36Z",
+    "event_properties": {
+      "referrer": "category_page"
+    }
+  },
+  {
+    "event_id": "product_click_eb41092bef",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-26T16:42:02Z",
+    "user_id": "user_5a2955d8",
+    "session_id": "sess_653046af",
+    "product_id": "prod_46",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-26T16:43:02Z",
+    "event_properties": {
+      "referrer": "homepage"
+    }
+  },
+  {
+    "event_id": "product_click_2937c29e14",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-17T01:18:18Z",
+    "user_id": "user_c009306c",
+    "session_id": "sess_a1dd27da",
+    "product_id": "prod_686",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-17T01:19:18Z",
+    "event_properties": {
+      "referrer": "search"
+    }
+  },
+  {
+    "event_id": "product_click_4b07a52e93",
+    "event_type": "product_click",
+    "event_timestamp": "2026-07-10T03:40:12Z",
+    "user_id": "user_608cafee",
+    "session_id": "sess_29445052",
+    "product_id": "prod_25",
+    "page_url": null,
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "product_clicks.json",
+    "ingested_at": "2026-07-10T03:41:12Z",
+    "event_properties": {
+      "referrer": "homepage"
     }
   }
 ]
