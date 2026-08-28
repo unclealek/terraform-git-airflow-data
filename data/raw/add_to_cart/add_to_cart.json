@@ -1,444 +1,427 @@
 [
   {
-    "event_id": "add_to_cart_b03c8fca6c",
+    "event_id": "add_to_cart_7bdeafba47",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-02T20:02:18Z",
-    "user_id": "user_eb87946e",
-    "session_id": "sess_1f44b488",
-    "product_id": "prod_469",
+    "event_timestamp": "2026-08-08T00:39:58Z",
+    "user_id": "user_ee75eaa6",
+    "session_id": "sess_4242eb62",
+    "product_id": "prod_165",
+    "page_url": null,
+    "quantity": "2",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-08T00:40:58Z",
+    "event_properties": {
+      "cart_value": "207.65"
+    }
+  },
+  {
+    "event_id": "add_to_cart_b8f45db8e5",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-19T20:02:33Z",
+    "user_id": "user_34c1e139",
+    "session_id": "sess_9a5ed17b",
+    "product_id": "prod_531",
+    "page_url": null,
+    "quantity": "3",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-19T20:03:33Z",
+    "event_properties": {
+      "cart_value": "263.68"
+    }
+  },
+  {
+    "event_id": "add_to_cart_af32383d7f",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-21T00:27:36Z",
+    "user_id": "user_9c92e5a2",
+    "session_id": "sess_4e1c9e0a",
+    "product_id": "prod_434",
+    "page_url": null,
+    "quantity": "1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-21T00:28:36Z",
+    "event_properties": {
+      "cart_value": "51.60"
+    }
+  },
+  {
+    "event_id": "add_to_cart_a337e2ad4b",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-15T05:26:44Z",
+    "user_id": "user_62f2070d",
+    "session_id": "sess_06e5731c",
+    "product_id": "prod_460",
+    "page_url": null,
+    "quantity": "2",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-15T05:27:44Z",
+    "event_properties": {
+      "cart_value": "255.57"
+    }
+  },
+  {
+    "event_id": "add_to_cart_d567a6c11c",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-04T02:06:17Z",
+    "user_id": "user_96d91125",
+    "session_id": "sess_30f2bd32",
+    "product_id": "prod_789",
+    "page_url": null,
+    "quantity": "3",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-04T02:07:17Z",
+    "event_properties": {
+      "cart_value": "47.30"
+    }
+  },
+  {
+    "event_id": "add_to_cart_5d83976432",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-12T21:17:18Z",
+    "user_id": "user_8e0eab38",
+    "session_id": "sess_7b8ef91e",
+    "product_id": "prod_724",
+    "page_url": null,
+    "quantity": "2",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-12T21:18:18Z",
+    "event_properties": {
+      "cart_value": "99.44"
+    }
+  },
+  {
+    "event_id": "add_to_cart_34de98521a",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-28T17:20:47Z",
+    "user_id": "user_2802ec0e",
+    "session_id": "sess_c1b32cab",
+    "product_id": "prod_644",
+    "page_url": null,
+    "quantity": "2",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-28T17:21:47Z",
+    "event_properties": {
+      "cart_value": "89.51"
+    }
+  },
+  {
+    "event_id": "add_to_cart_257f477879",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-06T04:25:14Z",
+    "user_id": "user_15a546f2",
+    "session_id": "sess_c39a6ab1",
+    "product_id": "prod_472",
+    "page_url": null,
+    "quantity": "3",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-06T04:26:14Z",
+    "event_properties": {
+      "cart_value": "226.32"
+    }
+  },
+  {
+    "event_id": "add_to_cart_c6f7546f11",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-18T06:41:46Z",
+    "user_id": "user_d1d2795c",
+    "session_id": "sess_da98be07",
+    "product_id": "prod_18",
+    "page_url": null,
+    "quantity": "4",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-18T06:42:46Z",
+    "event_properties": {
+      "cart_value": "277.85"
+    }
+  },
+  {
+    "event_id": "add_to_cart_265410c384",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-19T02:18:54Z",
+    "user_id": "user_89d8a09e",
+    "session_id": "sess_6b610d13",
+    "product_id": "prod_721",
+    "page_url": null,
+    "quantity": "4",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-19T02:19:54Z",
+    "event_properties": {
+      "cart_value": "149.07"
+    }
+  },
+  {
+    "event_id": "add_to_cart_ef621346fd",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-11T07:43:31Z",
+    "user_id": "user_000068d4",
+    "session_id": "sess_790e562a",
+    "product_id": "prod_590",
+    "page_url": null,
+    "quantity": "3",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-11T07:44:31Z",
+    "event_properties": {
+      "cart_value": "91.70"
+    }
+  },
+  {
+    "event_id": "add_to_cart_aad361d6fe",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-19T12:35:04Z",
+    "user_id": "user_a95f8508",
+    "session_id": "sess_3941052e",
+    "product_id": "prod_416",
     "page_url": null,
     "quantity": "abc",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-02T20:03:18Z",
+    "ingested_at": "2026-08-19T12:36:04Z",
     "event_properties": {
-      "cart_value": "148.77"
+      "cart_value": "165.68"
     }
   },
   {
-    "event_id": "add_to_cart_9df7b74d2c",
+    "event_id": "add_to_cart_7d64ecd1a7",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-13T17:53:26Z",
-    "user_id": "user_04f529cd",
-    "session_id": "sess_9453730d",
-    "product_id": "prod_535",
-    "page_url": null,
-    "quantity": "5",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-13T17:54:26Z",
-    "event_properties": {
-      "cart_value": "69.87"
-    }
-  },
-  {
-    "event_id": "add_to_cart_5a0a295a8f",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-02T23:46:40Z",
-    "user_id": "user_1fef1056",
-    "session_id": "sess_dfaf4387",
-    "product_id": "prod_89",
-    "page_url": null,
-    "quantity": "-1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-02T23:47:40Z",
-    "event_properties": {
-      "cart_value": "72.47"
-    }
-  },
-  {
-    "event_id": "add_to_cart_abde918c82",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-23T16:49:02Z",
-    "user_id": "user_134c285d",
-    "session_id": "sess_6e6dd211",
-    "product_id": "prod_750",
-    "page_url": null,
-    "quantity": "5",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-23T16:50:02Z",
-    "event_properties": {
-      "cart_value": "72.42"
-    }
-  },
-  {
-    "event_id": "add_to_cart_167a22a15b",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-22T13:53:03Z",
-    "user_id": "user_25095b73",
-    "session_id": "sess_b8da1b28",
-    "product_id": "prod_864",
-    "page_url": null,
-    "quantity": "-1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-22T13:54:03Z",
-    "event_properties": {
-      "cart_value": "236.62"
-    }
-  },
-  {
-    "event_id": "add_to_cart_334d01f4e4",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T07:20:30Z",
-    "user_id": "user_8640db40",
-    "session_id": "sess_295cfc63",
-    "product_id": "prod_947",
+    "event_timestamp": "2026-08-06T02:36:16Z",
+    "user_id": "user_0b6ed790",
+    "session_id": "sess_4ca71f38",
+    "product_id": "prod_184",
     "page_url": null,
     "quantity": "2",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T07:21:30Z",
+    "ingested_at": "2026-08-06T02:37:16Z",
     "event_properties": {
-      "cart_value": "183.83"
+      "cart_value": "103.85"
     }
   },
   {
-    "event_id": "add_to_cart_fb131fadb6",
+    "event_id": "add_to_cart_845bbdc94c",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-18T05:47:01Z",
-    "user_id": "user_3037910e",
-    "session_id": "sess_d3c9294d",
-    "product_id": "prod_329",
+    "event_timestamp": "2026-08-21T23:04:10Z",
+    "user_id": "user_7be315da",
+    "session_id": "sess_167e5780",
+    "product_id": "prod_311",
     "page_url": null,
-    "quantity": "3",
+    "quantity": "5",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-18T05:48:01Z",
+    "ingested_at": "2026-08-21T23:05:10Z",
     "event_properties": {
-      "cart_value": "236.92"
+      "cart_value": "81.02"
     }
   },
   {
-    "event_id": "add_to_cart_01b01044e2",
+    "event_id": "add_to_cart_60b1e6c53f",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T06:36:34Z",
-    "user_id": "user_e1ca066a",
-    "session_id": "sess_a60f511b",
-    "product_id": "prod_72",
-    "page_url": null,
-    "quantity": "3",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T06:37:34Z",
-    "event_properties": {
-      "cart_value": "77.91"
-    }
-  },
-  {
-    "event_id": "add_to_cart_c8e0cc452b",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-07-31T17:17:54Z",
-    "user_id": "user_8a9d8deb",
-    "session_id": "sess_c47d58a0",
-    "product_id": "prod_592",
-    "page_url": null,
-    "quantity": "3",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-07-31T17:18:54Z",
-    "event_properties": {
-      "cart_value": "60.45"
-    }
-  },
-  {
-    "event_id": "add_to_cart_a476f93675",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-08T00:28:36Z",
-    "user_id": "user_27c43670",
-    "session_id": "sess_c10899a2",
-    "product_id": "prod_269",
+    "event_timestamp": "2026-08-27T02:17:00Z",
+    "user_id": "user_3429b879",
+    "session_id": "sess_a54a1278",
+    "product_id": "prod_270",
     "page_url": null,
     "quantity": "4",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-08T00:29:36Z",
+    "ingested_at": "2026-08-27T02:18:00Z",
     "event_properties": {
-      "cart_value": "207.15"
+      "cart_value": "20.48"
     }
   },
   {
-    "event_id": "add_to_cart_58ebc4e0c0",
+    "event_id": "add_to_cart_203ecb7a9c",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T02:14:48Z",
-    "user_id": "user_e6a97e4c",
-    "session_id": "sess_6770895e",
-    "product_id": "prod_853",
-    "page_url": null,
-    "quantity": "3",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T02:15:48Z",
-    "event_properties": {
-      "cart_value": "276.75"
-    }
-  },
-  {
-    "event_id": "add_to_cart_0f1c88fded",
-    "event_type": "add_to_cart",
-    "event_timestamp": "invalid_timestamp",
-    "user_id": "user_6f2a6491",
-    "session_id": "sess_7dbc7a51",
-    "product_id": "prod_765",
-    "page_url": null,
-    "quantity": "1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-24T10:49:52Z",
-    "event_properties": {
-      "cart_value": "197.98"
-    }
-  },
-  {
-    "event_id": "add_to_cart_24ddd4135b",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-11T07:34:40Z",
-    "user_id": "user_69f02f35",
-    "session_id": "sess_80d5df02",
-    "product_id": "prod_478",
-    "page_url": null,
-    "quantity": "5",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-11T07:35:40Z",
-    "event_properties": {
-      "cart_value": "224.80"
-    }
-  },
-  {
-    "event_id": "add_to_cart_973ac78ade",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-24T09:16:51Z",
-    "user_id": "user_8fac74eb",
-    "session_id": "sess_1a5991ac",
-    "product_id": "prod_113",
-    "page_url": null,
-    "quantity": "2",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-24T09:17:51Z",
-    "event_properties": {
-      "cart_value": "297.87"
-    }
-  },
-  {
-    "event_id": "add_to_cart_405a8acc3c",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-19T10:23:48Z",
-    "user_id": "user_d08e0bdb",
-    "session_id": "sess_1daa7a84",
-    "product_id": "prod_255",
-    "page_url": null,
-    "quantity": "2",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-19T10:24:48Z",
-    "event_properties": {
-      "cart_value": "236.51"
-    }
-  },
-  {
-    "event_id": "add_to_cart_67cc21803c",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-09T13:21:17Z",
-    "user_id": "user_ff0b0c7a",
-    "session_id": "sess_51a98e9c",
-    "product_id": "prod_439",
-    "page_url": null,
-    "quantity": "2",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-09T13:22:17Z",
-    "event_properties": {
-      "cart_value": "22.00"
-    }
-  },
-  {
-    "event_id": "add_to_cart_f107c82c6b",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-07-30T12:57:18Z",
-    "user_id": "user_10bd7d5a",
-    "session_id": "sess_06346a83",
-    "product_id": "prod_149",
+    "event_timestamp": "2026-08-20T20:04:00Z",
+    "user_id": "user_1364c5af",
+    "session_id": "sess_5f3e44db",
+    "product_id": "prod_321",
     "page_url": null,
     "quantity": "4",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-07-30T12:58:18Z",
+    "ingested_at": "2026-08-20T20:05:00Z",
     "event_properties": {
-      "cart_value": "253.16"
+      "cart_value": "299.53"
     }
   },
   {
-    "event_id": "add_to_cart_bb8a9c5bd8",
+    "event_id": "add_to_cart_de8a99f75a",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-21T17:41:46Z",
-    "user_id": "user_a037df45",
-    "session_id": "sess_43947271",
-    "product_id": "prod_389",
+    "event_timestamp": "2026-08-13T09:13:36Z",
+    "user_id": "user_0b94c8b8",
+    "session_id": "sess_9dc71a6c",
+    "product_id": "prod_481",
+    "page_url": null,
+    "quantity": "1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-13T09:14:36Z",
+    "event_properties": {
+      "cart_value": "169.88"
+    }
+  },
+  {
+    "event_id": "add_to_cart_94bd6e436f",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-27T00:14:09Z",
+    "user_id": "user_c8f86dad",
+    "session_id": "sess_f84c37bb",
+    "product_id": "prod_681",
     "page_url": null,
     "quantity": "2",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-21T17:42:46Z",
+    "ingested_at": "2026-08-27T00:15:09Z",
     "event_properties": {
-      "cart_value": "146.20"
+      "cart_value": "70.21"
     }
   },
   {
-    "event_id": "add_to_cart_c2d96802cd",
+    "event_id": "add_to_cart_0af4d8bd15",
     "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-05T11:07:50Z",
-    "user_id": "user_bd9cc6de",
-    "session_id": "sess_a9023fa4",
-    "product_id": "prod_791",
-    "page_url": null,
-    "quantity": "5",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-05T11:08:50Z",
-    "event_properties": {
-      "cart_value": "289.44"
-    }
-  },
-  {
-    "event_id": "add_to_cart_0c5ecf0071",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T03:02:25Z",
-    "user_id": "user_af0f2721",
-    "session_id": "sess_dd4f719a",
-    "product_id": "prod_571",
-    "page_url": null,
-    "quantity": "5",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T03:03:25Z",
-    "event_properties": {
-      "cart_value": "217.87"
-    }
-  },
-  {
-    "event_id": "add_to_cart_563aff3473",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-15T09:55:08Z",
-    "user_id": "user_f078acb9",
-    "session_id": "sess_17669ffe",
-    "product_id": "prod_788",
-    "page_url": null,
-    "quantity": "2",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-15T09:56:08Z",
-    "event_properties": {
-      "cart_value": "160.17"
-    }
-  },
-  {
-    "event_id": "add_to_cart_29cbd1cf78",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-05T07:09:44Z",
-    "user_id": "user_96a6cf2c",
-    "session_id": "sess_7f61a769",
-    "product_id": "prod_299",
-    "page_url": null,
-    "quantity": "1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-05T07:10:44Z",
-    "event_properties": {
-      "cart_value": "59.88"
-    }
-  },
-  {
-    "event_id": null,
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-11T23:00:49Z",
-    "user_id": "user_9fb88c9d",
-    "session_id": "sess_9e30447d",
-    "product_id": "prod_616",
-    "page_url": null,
-    "quantity": "4",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-11T23:01:49Z",
-    "event_properties": {
-      "cart_value": "256.25"
-    }
-  },
-  {
-    "event_id": "add_to_cart_0e3c7dd62d",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T02:55:08Z",
-    "user_id": "user_e1abe733",
-    "session_id": "sess_ffc7a11b",
-    "product_id": "prod_922",
-    "page_url": null,
-    "quantity": "1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T02:56:08Z",
-    "event_properties": {
-      "cart_value": "255.10"
-    }
-  },
-  {
-    "event_id": "add_to_cart_0e3c7dd62d",
-    "event_type": "add_to_cart",
-    "event_timestamp": "2026-08-14T02:55:08Z",
-    "user_id": "user_e1abe733",
-    "session_id": "sess_ffc7a11b",
-    "product_id": "prod_922",
-    "page_url": null,
-    "quantity": "1",
-    "price": null,
-    "currency": null,
-    "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-14T02:56:08Z",
-    "event_properties": {
-      "cart_value": "255.10"
-    }
-  },
-  {
-    "event_id": "add_to_cart_b64cc9a5d5",
-    "event_type": "add_to_cart",
-    "event_timestamp": "03/99/2026 08:20:00",
-    "user_id": "user_3ac8146f",
-    "session_id": "sess_caa0bdf7",
-    "product_id": "prod_385",
-    "page_url": null,
+    "event_timestamp": "2026-08-10T14:48:48Z",
+    "user_id": "user_664d0ebb",
+    "session_id": "sess_15594d36",
+    "product_id": "prod_832",
+    "page_url": "",
     "quantity": "abc",
     "price": null,
     "currency": null,
     "source_file": "add_to_cart.json",
-    "ingested_at": "2026-08-27T10:52:27Z",
+    "ingested_at": "2026-08-10T14:49:48Z",
     "event_properties": {
-      "cart_value": "164.97"
+      "cart_value": "95.10"
+    }
+  },
+  {
+    "event_id": "add_to_cart_77b7b8cef4",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-24T18:51:05Z",
+    "user_id": "user_afe8603b",
+    "session_id": "sess_fea6dce5",
+    "product_id": "prod_869",
+    "page_url": null,
+    "quantity": "-1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-24T18:52:05Z",
+    "event_properties": {
+      "cart_value": "175.44"
+    }
+  },
+  {
+    "event_id": "add_to_cart_4f4549dae5",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-20T16:31:20Z",
+    "user_id": "user_bff529c5",
+    "session_id": "sess_b87af45b",
+    "product_id": "prod_927",
+    "page_url": null,
+    "quantity": "1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-20T16:32:20Z",
+    "event_properties": {
+      "cart_value": "193.05"
+    }
+  },
+  {
+    "event_id": "add_to_cart_78e025af3e",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-28T05:25:52Z",
+    "user_id": "user_8f1ff958",
+    "session_id": "sess_20a36dcd",
+    "product_id": "prod_857",
+    "page_url": "",
+    "quantity": "1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-28T05:26:52Z",
+    "event_properties": {
+      "cart_value": "165.93"
+    }
+  },
+  {
+    "event_id": "add_to_cart_1df3e7eda9",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-04T04:12:54Z",
+    "user_id": "user_b7b58ab0",
+    "session_id": "sess_c4b16c2b",
+    "product_id": "prod_399",
+    "page_url": null,
+    "quantity": "5",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-04T04:13:54Z",
+    "event_properties": {
+      "cart_value": "161.18"
+    }
+  },
+  {
+    "event_id": "add_to_cart_927b06f860",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-21T10:19:48Z",
+    "user_id": "user_e1718c12",
+    "session_id": "sess_732b2802",
+    "product_id": "prod_927",
+    "page_url": null,
+    "quantity": "1",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-21T10:20:48Z",
+    "event_properties": {
+      "cart_value": "249.47"
+    }
+  },
+  {
+    "event_id": "add_to_cart_6f8189e674",
+    "event_type": "add_to_cart",
+    "event_timestamp": "2026-08-05T16:29:27Z",
+    "user_id": "user_306e6526",
+    "session_id": "sess_4becc9d8",
+    "product_id": "prod_978",
+    "page_url": null,
+    "quantity": "4",
+    "price": null,
+    "currency": null,
+    "source_file": "add_to_cart.json",
+    "ingested_at": "2026-08-05T16:30:27Z",
+    "event_properties": {
+      "cart_value": "67.32"
     }
   }
 ]
