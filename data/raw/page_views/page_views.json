@@ -1,488 +1,452 @@
 [
   {
-    "event_id": "page_view_dc31a689cd",
+    "event_id": "page_view_26b8d19a16",
     "event_type": "page_view",
-    "event_timestamp": "2026-10-02T22:36:36Z",
-    "user_id": "user_37d44ac0",
-    "session_id": "sess_1db16765",
+    "event_timestamp": "2026-10-29T13:04:32Z",
+    "user_id": "user_cb58fde8",
+    "session_id": "sess_353c690c",
+    "product_id": null,
+    "page_url": "/checkout",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-29T13:05:32Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/27.0.840.0 Mobile/65Y793 Safari/531.1",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_461cc49c85",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-08T10:04:58Z",
+    "user_id": "user_70d0ab2d",
+    "session_id": "sess_8030d2c0",
+    "product_id": null,
+    "page_url": "/products/prod_484",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-08T10:05:58Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/35.0.892.0 Safari/532.0",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_b997b07e95",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-21T14:05:18Z",
+    "user_id": "user_6dbcca5e",
+    "session_id": "sess_04db3fd8",
     "product_id": null,
     "page_url": "/products",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-02T22:37:36Z",
+    "ingested_at": "2026-10-21T14:06:18Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/37.0.811.0 Safari/534.0",
-      "device": "mobile"
-    }
-  },
-  {
-    "event_id": "page_view_240656a760",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-21T19:01:44Z",
-    "user_id": "user_f3d22b12",
-    "session_id": "sess_0388f34d",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-21T19:02:44Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Linux; Android 2.3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/41.0.831.0 Safari/534.1",
+      "browser": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/25.0.870.0 Safari/533.1",
       "device": "desktop"
     }
   },
   {
-    "event_id": "page_view_d9597bb5d3",
+    "event_id": "page_view_71ca8cbeea",
     "event_type": "page_view",
-    "event_timestamp": "2026-10-26T21:19:02Z",
-    "user_id": "user_3437dcd2",
-    "session_id": "sess_ed7617a8",
-    "product_id": null,
-    "page_url": "/products",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-26T21:20:02Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/59.0.846.0 Safari/535.0",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_7e9fd9dcdc",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-12T05:37:53Z",
-    "user_id": "user_308df684",
-    "session_id": "sess_3d2b7e89",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-12T05:38:53Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/48.0.851.0 Safari/531.1",
-      "device": "mobile"
-    }
-  },
-  {
-    "event_id": "page_view_efbb7e083a",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-01T05:57:23Z",
-    "user_id": "user_97973887",
-    "session_id": "sess_61c51725",
-    "product_id": null,
-    "page_url": "/products",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-01T05:58:23Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/47.0.868.0 Mobile/11S491 Safari/536.1",
-      "device": "mobile"
-    }
-  },
-  {
-    "event_id": "page_view_4bc176d777",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-12T22:45:24Z",
-    "user_id": "user_23f867ad",
-    "session_id": "sess_93edfe0d",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-12T22:46:24Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/35.0.830.0 Safari/536.2",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_95e8a9b179",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-15T16:31:51Z",
-    "user_id": "user_21b8700d",
-    "session_id": "sess_1e4247c3",
-    "product_id": null,
-    "page_url": "/products/prod_118",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-15T16:32:51Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_7) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/14.0.828.0 Safari/533.0",
-      "device": "mobile"
-    }
-  },
-  {
-    "event_id": "page_view_7d49b84d0a",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-27T06:33:10Z",
-    "user_id": "user_2be0b03c",
-    "session_id": "sess_3a69f162",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-27T06:34:10Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/57.0.806.0 Mobile/36H130 Safari/535.0",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_9ea5e7e106",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-08T19:07:27Z",
-    "user_id": "user_7559acb4",
-    "session_id": "sess_e8207e6a",
-    "product_id": null,
-    "page_url": "/products/prod_511",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-08T19:08:27Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/19.0.873.0 Safari/534.0",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_d3838658b6",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-08T07:31:04Z",
-    "user_id": "user_fa2a9d28",
-    "session_id": "sess_f6cbaa38",
-    "product_id": null,
-    "page_url": "/products/prod_332",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-08T07:32:04Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/55.0.886.0 Safari/533.2",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_408f482a33",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-08T20:21:27Z",
-    "user_id": "user_5057d3b4",
-    "session_id": "sess_0a5d9eb7",
-    "product_id": null,
-    "page_url": "/products/prod_406",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-08T20:22:27Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/45.0.848.0 Safari/536.0",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_dd7931f9aa",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-07T20:17:35Z",
-    "user_id": "user_de821b91",
-    "session_id": "sess_0ca0c0ee",
+    "event_timestamp": "2026-10-27T19:53:08Z",
+    "user_id": "user_277d6c36",
+    "session_id": "sess_3ce72c5b",
     "product_id": null,
     "page_url": "/home",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-07T20:18:35Z",
+    "ingested_at": "2026-10-27T19:54:08Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_9) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/36.0.859.0 Safari/534.0",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_6f24b8a0b8",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-02T11:44:34Z",
-    "user_id": "user_abb905f5",
-    "session_id": "sess_d8af7b88",
-    "product_id": null,
-    "page_url": "/",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-02T11:45:34Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/26.0.864.0 Safari/536.0",
+      "browser": "Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/55.0.889.0 Safari/536.0",
       "device": "mobile"
     }
   },
   {
-    "event_id": "page_view_50fb644494",
+    "event_id": "page_view_4b03263b93",
     "event_type": "page_view",
-    "event_timestamp": "2026-10-06T21:46:32Z",
-    "user_id": "user_2a2d9b01",
-    "session_id": "sess_c3a31ea0",
+    "event_timestamp": "2026-10-02T10:22:28Z",
+    "user_id": "user_81276d6d",
+    "session_id": "sess_1d74ed54",
     "product_id": null,
-    "page_url": "/",
+    "page_url": "/products/prod_437",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-06T21:47:32Z",
+    "ingested_at": "2026-10-02T10:23:28Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/25.0.861.0 Safari/535.2",
-      "device": "mobile"
-    }
-  },
-  {
-    "event_id": "page_view_bd4be0aec7",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-03T16:05:40Z",
-    "user_id": "user_5f3dfce5",
-    "session_id": "sess_278692e6",
-    "product_id": null,
-    "page_url": "/products/prod_618",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-03T16:06:40Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_5) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/28.0.817.0 Safari/532.0",
+      "browser": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/38.0.849.0 Safari/536.1",
       "device": "desktop"
     }
   },
   {
-    "event_id": "page_view_b7d75e1e37",
+    "event_id": "page_view_ba47077d67",
     "event_type": "page_view",
-    "event_timestamp": "2026-10-22T11:19:50Z",
-    "user_id": "user_45a9cb3f",
-    "session_id": "sess_9ab99443",
+    "event_timestamp": "2026-10-24T20:52:31Z",
+    "user_id": "user_62cd722b",
+    "session_id": "sess_f4e6f64e",
     "product_id": null,
     "page_url": "/products",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-22T11:20:50Z",
+    "ingested_at": "2026-10-24T20:53:31Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/28.0.803.0 Safari/536.1",
+      "browser": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/31.0.864.0 Safari/534.0",
       "device": "tablet"
     }
   },
   {
-    "event_id": "page_view_7a897de02a",
+    "event_id": "page_view_be0c2d51c1",
     "event_type": "page_view",
-    "event_timestamp": "invalid_timestamp",
-    "user_id": "user_f5864ed8",
-    "session_id": "sess_711b4ce3",
+    "event_timestamp": "2026-10-15T01:24:01Z",
+    "user_id": "user_3aa74744",
+    "session_id": "sess_a2234a22",
     "product_id": null,
     "page_url": "/checkout",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-09-29T04:21:08Z",
+    "ingested_at": "2026-10-15T01:25:01Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/43.0.812.0 Safari/534.1",
+      "browser": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/22.0.808.0 Safari/533.2",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_8bb190cfb2",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-29T04:26:25Z",
+    "user_id": "user_0bdc2cb7",
+    "session_id": "sess_4e99cfd2",
+    "product_id": null,
+    "page_url": "/products",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-29T04:27:25Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/31.0.831.0 Safari/532.1",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_e4dd79fb08",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-25T00:32:35Z",
+    "user_id": "user_3bd22dae",
+    "session_id": "sess_f731d1d1",
+    "product_id": null,
+    "page_url": "/products/prod_497",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-25T00:33:35Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/25.0.830.0 Safari/534.2",
       "device": "mobile"
     }
   },
   {
-    "event_id": "page_view_c55c806f30",
+    "event_id": "page_view_4dfccd0a59",
     "event_type": "page_view",
-    "event_timestamp": "2026-09-30T23:33:43Z",
-    "user_id": "user_0dbba621",
-    "session_id": "sess_62cac8fa",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-09-30T23:34:43Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/37.0.815.0 Safari/533.2",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_41228b45f8",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-06T13:34:05Z",
-    "user_id": "user_bed27ec9",
-    "session_id": "sess_288c8eed",
-    "product_id": null,
-    "page_url": "/",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-06T13:35:05Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/42.0.832.0 Mobile/15X931 Safari/531.1",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_41228b45f8",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-06T13:34:05Z",
-    "user_id": "user_bed27ec9",
-    "session_id": "sess_288c8eed",
-    "product_id": null,
-    "page_url": "/",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-06T13:35:05Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/42.0.832.0 Mobile/15X931 Safari/531.1",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_45c9c87756",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-12T17:58:12Z",
-    "user_id": "user_996ad578",
-    "session_id": "sess_2f83a69d",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-12T17:59:12Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/38.0.843.0 Safari/534.2",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_45c9c87756",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-12T17:58:12Z",
-    "user_id": "user_996ad578",
-    "session_id": "sess_2f83a69d",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-12T17:59:12Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/38.0.843.0 Safari/534.2",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_9e35427053",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-03T19:54:48Z",
-    "user_id": "user_8276b7d1",
-    "session_id": "sess_359d51f1",
+    "event_timestamp": "2026-10-08T08:21:14Z",
+    "user_id": "user_08d66aa9",
+    "session_id": "sess_e2a432c1",
     "product_id": null,
     "page_url": "/home",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-03T19:55:48Z",
+    "ingested_at": "2026-10-08T08:22:14Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/49.0.844.0 Safari/536.2",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_1fdb48deb8",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-09T09:44:10Z",
-    "user_id": "user_777e7172",
-    "session_id": "sess_17a9bcb8",
-    "product_id": null,
-    "page_url": "/products/prod_920",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-09T09:45:10Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/43.0.865.0 Mobile/94M148 Safari/536.0",
-      "device": "desktop"
-    }
-  },
-  {
-    "event_id": "page_view_1e5691d0f2",
-    "event_type": "page_view",
-    "event_timestamp": "2026-10-08T15:25:34Z",
-    "user_id": "user_38c8f3dd",
-    "session_id": "sess_a98142e5",
-    "product_id": null,
-    "page_url": "/checkout",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-08T15:26:34Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/34.0.893.0 Safari/534.2",
+      "browser": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/18.0.841.0 Mobile/09A999 Safari/534.1",
       "device": "mobile"
     }
   },
   {
-    "event_id": "page_view_35d5adfa15",
+    "event_id": "page_view_b1f9c363bc",
     "event_type": "page_view",
-    "event_timestamp": "2026-10-03T19:28:01Z",
-    "user_id": "user_bf5c1f75",
-    "session_id": "sess_a2a548f4",
-    "product_id": null,
-    "page_url": "/products",
-    "quantity": null,
-    "price": null,
-    "currency": null,
-    "source_file": "page_views.json",
-    "ingested_at": "2026-10-03T19:29:01Z",
-    "event_properties": {
-      "browser": "Mozilla/5.0 (Windows CE) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/55.0.813.0 Safari/532.2",
-      "device": "tablet"
-    }
-  },
-  {
-    "event_id": "page_view_28d97ba5b3",
-    "event_type": "page_view",
-    "event_timestamp": "03/99/2026 08:20:00",
-    "user_id": "user_667038c7",
-    "session_id": "sess_d447385d",
+    "event_timestamp": "2026-10-23T08:52:06Z",
+    "user_id": "user_1711d651",
+    "session_id": "sess_35f0d619",
     "product_id": null,
     "page_url": "/",
     "quantity": null,
     "price": null,
     "currency": null,
     "source_file": "page_views.json",
-    "ingested_at": "2026-10-21T00:09:23Z",
+    "ingested_at": "2026-10-23T08:53:06Z",
     "event_properties": {
-      "browser": "Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/45.0.816.0 Mobile/61A597 Safari/533.1",
+      "browser": "Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/52.0.826.0 Mobile/34S947 Safari/536.0",
+      "device": "mobile"
+    }
+  },
+  {
+    "event_id": "page_view_8f5b734472",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-28T00:03:29Z",
+    "user_id": "user_4371f8e6",
+    "session_id": "sess_196a405b",
+    "product_id": null,
+    "page_url": "/products/prod_190",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-28T00:04:29Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/45.0.851.0 Safari/532.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_6f31dfbae1",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-14T06:53:37Z",
+    "user_id": "user_71f20191",
+    "session_id": "sess_fdf53d29",
+    "product_id": null,
+    "page_url": "/checkout",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-14T06:54:37Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/40.0.809.0 Safari/535.0",
+      "device": "mobile"
+    }
+  },
+  {
+    "event_id": "page_view_d0c4a27d00",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-10T11:37:53Z",
+    "user_id": "user_e66cd975",
+    "session_id": "sess_17807623",
+    "product_id": null,
+    "page_url": "/products/prod_340",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-10T11:38:53Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Windows CE) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/22.0.846.0 Safari/531.2",
+      "device": "mobile"
+    }
+  },
+  {
+    "event_id": "page_view_616ea724b2",
+    "event_type": "page_view",
+    "event_timestamp": "2026-09-30T06:17:29Z",
+    "user_id": "user_2f3b2782",
+    "session_id": "sess_a56b7741",
+    "product_id": null,
+    "page_url": "/",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-09-30T06:18:29Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/32.0.820.0 Safari/531.0",
       "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_961d102c64",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-19T01:16:21Z",
+    "user_id": "user_916a9b58",
+    "session_id": "sess_c647de02",
+    "product_id": null,
+    "page_url": "/products/prod_347",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-19T01:17:21Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/41.0.835.0 Safari/533.1",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_b5230d0b51",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-29T13:15:37Z",
+    "user_id": "user_6f367342",
+    "session_id": "sess_7c61e9d4",
+    "product_id": null,
+    "page_url": "/products/prod_844",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-29T13:16:37Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/45.0.812.0 Safari/535.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": null,
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-19T01:46:03Z",
+    "user_id": "user_84eb47da",
+    "session_id": "sess_ab406f2a",
+    "product_id": null,
+    "page_url": "/home",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-19T01:47:03Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/17.0.813.0 Safari/532.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_0dd6b7f436",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-23T10:49:39Z",
+    "user_id": "user_17ebd54a",
+    "session_id": "sess_362b58d5",
+    "product_id": null,
+    "page_url": "/products/prod_63",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-23T10:50:39Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/44.0.850.0 Safari/536.1",
+      "device": "mobile"
+    }
+  },
+  {
+    "event_id": "page_view_8e8f72af61",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-18T10:35:49Z",
+    "user_id": "user_602fad67",
+    "session_id": "sess_d707b495",
+    "product_id": null,
+    "page_url": "/products/prod_337",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-18T10:36:49Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/54.0.862.0 Safari/533.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_c4fe41190e",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-02T21:42:13Z",
+    "user_id": "user_2517e87a",
+    "session_id": "sess_0d5895de",
+    "product_id": null,
+    "page_url": "/products/prod_408",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-02T21:43:13Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/34.0.865.0 Safari/535.0",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_8a1b9b8265",
+    "event_type": "page_view",
+    "event_timestamp": "2026-09-30T05:48:54Z",
+    "user_id": "user_ef0f304d",
+    "session_id": "sess_05be7a3d",
+    "product_id": null,
+    "page_url": "/home",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-09-30T05:49:54Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/62.0.894.0 Safari/531.1",
+      "device": "desktop"
+    }
+  },
+  {
+    "event_id": "page_view_695e5463ee",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-12T20:44:54Z",
+    "user_id": "user_7c5bbdb7",
+    "session_id": "sess_d8f53284",
+    "product_id": null,
+    "page_url": "/products",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-12T20:45:54Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_7 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/53.0.813.0 Mobile/05C031 Safari/533.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_93bb1dba10",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-18T13:44:28Z",
+    "user_id": "user_00262eba",
+    "session_id": "sess_7c7566fd",
+    "product_id": null,
+    "page_url": "/products",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-18T13:45:28Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/57.0.846.0 Safari/535.2",
+      "device": "tablet"
+    }
+  },
+  {
+    "event_id": "page_view_62ad090aa9",
+    "event_type": "page_view",
+    "event_timestamp": "2026-10-24T05:42:43Z",
+    "user_id": "user_6a385b83",
+    "session_id": "sess_ffacf20b",
+    "product_id": null,
+    "page_url": "/products",
+    "quantity": null,
+    "price": null,
+    "currency": null,
+    "source_file": "page_views.json",
+    "ingested_at": "2026-10-24T05:43:43Z",
+    "event_properties": {
+      "browser": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/57.0.811.0 Safari/531.1",
+      "device": "tablet"
     }
   }
 ]
